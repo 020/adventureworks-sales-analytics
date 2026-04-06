@@ -1,0 +1,636 @@
+ResellerKey,Reseller,Business Type,City,Country-Region,Total_Revenue,Total_Orders,Total_Profit,Profit_Margin_Pct,Avg_Order_Value,Unique_Categories,Recency_Days,Tenure_Days,Segment
+2,Progressive Sports,Specialty Bike Shop,Renton,United States,25199.4994,70,3170.2011,0.1258,359.99,4,30,643,High Margin Specialists
+6,Aerobic Exercise Company,Warehouse,Camarillo,United States,2676.654,10,76.01819999999981,0.0284,267.67,1,3,260,High Margin Specialists
+7,Associated Bikes,Value Added Reseller,Salt Lake City,United States,7780.3387999999995,16,1084.8885999999998,0.1394,486.27,4,426,285,High Margin Specialists
+9,Tandem Bicycle Store,Warehouse,Millington,United States,12634.979299999999,30,1158.9359000000006,0.0917,421.17,3,35,528,High Margin Specialists
+10,Rural Cycle Emporium,Value Added Reseller,Burnaby,Canada,443861.8244,267,39238.98240000001,0.0884,1662.4,4,9,629,Star Resellers
+11,Sharp Bikes,Specialty Bike Shop,Toronto,Canada,48761.856,19,3075.2074,0.0631,2566.41,2,773,273,High Margin Specialists
+14,Bicycle Warehouse Inc.,Specialty Bike Shop,Frankfurt am Main,Germany,5426.7938,39,1120.0961,0.2064,139.15,4,3,258,High Margin Specialists
+15,Budget Toy Store,Warehouse,Lavender Bay,Australia,145380.1284,131,14246.809399999998,0.098,1109.77,3,1,266,High Margin Specialists
+17,Trusted Catalog Store,Specialty Bike Shop,Newport News,United States,151331.0557,104,11636.366000000002,0.0769,1455.11,4,67,997,High Margin Specialists
+18,Catalog Store,Warehouse,Zeeland,United States,373658.4657,255,35448.3555,0.0949,1465.33,3,44,1005,Star Resellers
+19,Center Cycle Shop,Value Added Reseller,Bothell,United States,249.54,2,30.8519,0.1236,124.77,1,432,0,High Margin Specialists
+20,Central Discount Store,Specialty Bike Shop,Kent,United States,109764.0707,95,1740.4265999999993,0.0159,1155.41,4,1,1003,High Margin Specialists
+21,Chic Department Stores,Warehouse,Irving,United States,293829.1868,260,29670.786200000002,0.101,1130.11,4,6,623,Star Resellers
+22,Travel Systems,Value Added Reseller,North Sioux City,United States,21339.3147,35,526.6128000000008,0.0247,609.69,4,28,1009,High Margin Specialists
+23,Bike World,Specialty Bike Shop,San Ramon,United States,94534.8418,93,10955.381699999998,0.1159,1016.5,4,8,638,High Margin Specialists
+25,Coalition Bike Company,Value Added Reseller,El Segundo,United States,14175.7189,54,1498.5027999999998,0.1057,262.51,4,4,627,High Margin Specialists
+26,Stylish Department Stores,Specialty Bike Shop,Miami,United States,11250.2604,14,34.93530000000038,0.0031,803.59,2,716,212,High Margin Specialists
+27,Sports Sales and Rental,Warehouse,Millington,United States,154348.98859999998,44,10997.148399999998,0.0712,3507.93,4,57,994,Star Resellers
+29,Cross-Country Riding Supplies,Specialty Bike Shop,Chalk Riber,Canada,69150.3094,25,4344.558299999999,0.0628,2766.01,2,755,275,High Margin Specialists
+30,Cycle Merchants,Warehouse,Quebec,Canada,6287.7839,17,171.23950000000036,0.0272,369.87,4,7,638,High Margin Specialists
+33,Global Sports Outlet,Warehouse,Lavender Bay,Australia,4257.6168,8,185.5638999999998,0.0436,532.2,3,1,264,High Margin Specialists
+36,Exotic Bikes,Warehouse,South Bend,United States,70893.8461,62,115.14030000000085,0.0016,1143.45,3,43,1000,High Margin Specialists
+39,Fitness Hotel,Warehouse,Edina,United States,10598.5425,20,69.17690000000016,0.0065,529.93,3,3,629,High Margin Specialists
+40,Journey Sporting Goods,Value Added Reseller,Laredo,United States,175502.1574,52,11378.777399999997,0.0648,3375.04,4,747,273,High Margin Specialists
+43,Frugal Bike Shop,Value Added Reseller,Salt Lake City,United States,268660.7966,193,25174.081800000004,0.0937,1392.02,4,40,635,Star Resellers
+46,Gear-Shift Bikes Limited,Value Added Reseller,Calgary,Canada,202.332,1,15.17489999999998,0.075,202.33,1,545,0,High Margin Specialists
+49,Neighborhood Bicycle Storehouse,Value Added Reseller,Roncq,France,560.352,7,114.7321,0.2048,80.05,3,7,276,High Margin Specialists
+50,Hometown Riding Supplies,Specialty Bike Shop,Berlin,Germany,144.0,1,54.239999999999995,0.3767,144.0,1,232,0,High Margin Specialists
+57,Leading Sales & Repair,Warehouse,West Chicago,United States,146233.55980000002,103,205.2201000000065,0.0014,1419.74,4,744,272,High Margin Specialists
+58,Largest Bike Store,Value Added Reseller,Chicago,United States,1938.9202,8,34.54250000000002,0.0178,242.37,3,399,545,High Margin Specialists
+61,Many Bikes Store,Value Added Reseller,Fullerton,United States,349342.1078,301,31956.620400000007,0.0915,1160.61,4,3,627,Star Resellers
+63,Metro Bike Mart,Warehouse,Greensboro,United States,149121.222,144,13672.779099999996,0.0917,1035.56,4,24,1001,High Margin Specialists
+65,Metro Manufacturing,Specialty Bike Shop,Weston,Canada,52301.5365,82,6503.702600000001,0.1244,637.82,4,45,639,High Margin Specialists
+69,Online Bike Catalog,Warehouse,Lavender Bay,Australia,2850.498,7,65.8527,0.0231,407.21,1,1,262,High Margin Specialists
+73,Outdoor Sports Supply,Value Added Reseller,North Bend,United States,162313.2916,54,10879.554499999998,0.067,3005.8,4,496,540,High Margin Specialists
+74,Parcel Express Delivery Service,Specialty Bike Shop,Portland,United States,419.4589,1,6.312600000000032,0.015,419.46,1,949,0,High Margin Specialists
+75,Paint Supply,Warehouse,Garland,United States,395867.2728,376,18151.6279,0.0459,1052.84,4,5,1001,Star Resellers
+83,Requisite Part Supply,Specialty Bike Shop,Ottawa,Canada,36649.9908,27,76.88700000000071,0.0021,1357.41,2,796,268,High Margin Specialists
+88,Closest Bicycle Store,Value Added Reseller,Milton Keynes,United Kingdom,117491.4248,117,10340.160300000001,0.088,1004.2,4,9,269,High Margin Specialists
+93,Stationary Bikes and Stands,Warehouse,Round Rock,United States,61616.5168,75,167.35660000000115,0.0027,821.55,4,736,276,High Margin Specialists
+94,Specialty Sports Store,Value Added Reseller,Fort Worth,United States,3531.504,15,441.50609999999995,0.125,235.43,4,52,638,High Margin Specialists
+98,Superlative Bikes,Specialty Bike Shop,Miami,United States,25242.5317,39,2875.2556000000004,0.1139,647.24,3,0,624,High Margin Specialists
+99,Unified Sports Company,Warehouse,Sarasota,United States,165815.3344,57,12035.0976,0.0726,2909.04,3,30,1013,High Margin Specialists
+100,Up-To-Date Sports,Value Added Reseller,Markham,Canada,125793.7992,115,12047.4805,0.0958,1093.86,3,15,283,High Margin Specialists
+101,Urban Sports Emporium,Specialty Bike Shop,Toronto,Canada,35248.765,103,304.00130000000047,0.0086,342.22,4,43,637,High Margin Specialists
+106,West Side Mart,Value Added Reseller,Wokingham,United Kingdom,340.152,3,45.516099999999994,0.1338,113.38,2,14,273,High Margin Specialists
+109,Travel Sports,Value Added Reseller,Issaquah,United States,161109.3682,165,14610.8345,0.0907,976.42,4,5,255,Star Resellers
+111,Westside Cycle Store,Specialty Bike Shop,Elgin,United States,2414.8467,10,90.34039999999992,0.0374,241.48,4,541,390,High Margin Specialists
+114,Two Wheels Cycle Store,Specialty Bike Shop,San Francisco,United States,22340.7593,24,85.84670000000058,0.0038,930.86,2,738,275,High Margin Specialists
+115,Security Racks and Locks Wholesalers,Warehouse,Sparks,United States,5040.2241,12,285.4397000000004,0.0566,420.02,3,41,637,High Margin Specialists
+116,Retirement Activities Association,Value Added Reseller,Atlanta,United States,1060.1100000000001,4,24.763700000000046,0.0234,265.03,2,82,927,High Margin Specialists
+117,Pedals Warehouse,Specialty Bike Shop,Suwanee,United States,2845.7809,8,55.31030000000002,0.0194,355.72,3,60,1016,High Margin Specialists
+118,Rapid Bikes,Warehouse,Toronto,Canada,397553.2712,446,20376.0211,0.0513,891.38,4,8,1008,Star Resellers
+119,Red Bicycle Company,Value Added Reseller,Pnot-Rouge,Canada,392495.8789,220,34918.0559,0.089,1784.07,3,71,994,Star Resellers
+121,Metro Sports Equipment,Warehouse,Saint Ouen,France,99968.7104,117,10627.9013,0.1063,854.43,4,12,634,High Margin Specialists
+125,Immediate Repair Shop,Value Added Reseller,Stamford,United States,288827.1098,198,28948.8096,0.1002,1458.72,3,74,638,Star Resellers
+127,Front Sporting Goods,Warehouse,Redmond,United States,130949.0946,181,16211.990699999998,0.1238,723.48,4,405,269,High Margin Specialists
+128,Demand Distributors,Value Added Reseller,Wenatchee,United States,4204.0294,11,267.25330000000025,0.0636,382.18,1,14,731,High Margin Specialists
+129,Discount Bicycle Specialists,Specialty Bike Shop,Wood Dale,United States,419.4589,1,6.312600000000032,0.015,419.46,1,957,0,High Margin Specialists
+130,Elite Bikes,Warehouse,Dallas,United States,179831.3507,189,2156.5308000000045,0.012,951.49,4,357,277,Star Resellers
+133,Commercial Sporting Goods,Warehouse,Modesto,United States,268209.286,187,32287.958400000003,0.1204,1434.27,4,373,267,Star Resellers
+137,Transportation Options,Value Added Reseller,Calgary,Canada,3975.272,7,364.3317999999999,0.0916,567.9,3,493,452,High Margin Specialists
+141,Rental Gallery,Specialty Bike Shop,Lavender Bay,Australia,9601.967999999999,36,1498.5942,0.1561,266.72,4,17,277,High Margin Specialists
+144,Only Bikes and Accessories,Specialty Bike Shop,New York,United States,42676.974,15,2680.2627,0.0628,2845.13,2,763,271,High Margin Specialists
+145,Raw Materials Inc,Warehouse,Redmond,United States,153310.57869999998,64,11044.7052,0.072,2395.48,4,766,275,High Margin Specialists
+146,Latest Sports Equipment,Value Added Reseller,Seattle,United States,724299.6367,332,63691.4767,0.0879,2181.63,4,73,1001,Star Resellers
+148,Lots of Bikes Storehouse,Warehouse,Carol Stream,United States,3385.3678,6,400.9855000000003,0.1184,564.23,2,33,912,High Margin Specialists
+149,Initial Bike Company,Value Added Reseller,Westminster,United States,284305.6301,264,26288.377,0.0925,1076.92,4,14,639,Star Resellers
+150,Fleet Bikes,Specialty Bike Shop,Stockton,United States,6417.1108,6,653.1565000000003,0.1018,1069.52,2,410,269,High Margin Specialists
+151,Futuristic Bikes,Warehouse,Culver City,United States,5776.9527,20,747.8802999999998,0.1295,288.85,4,4,631,High Margin Specialists
+157,Ace Bicycle Supply,Warehouse,Paris,France,3749.1338,6,345.1415000000001,0.0921,624.86,2,38,633,High Margin Specialists
+164,Suburban Cycle Shop,Value Added Reseller,Troutdale,United States,78538.6919,24,5020.246,0.0639,3272.45,3,301,747,High Margin Specialists
+168,Economy Bikes Company,Specialty Bike Shop,Bell Gardens,United States,6221.0526,5,629.9407999999997,0.1013,1244.21,2,371,267,High Margin Specialists
+172,Certified Sports Supply,Warehouse,Richmond,Canada,13427.694,7,1008.7857999999998,0.0751,1918.24,2,7,1005,High Margin Specialists
+175,Registered Cycle Store,Warehouse,Orleans,France,580222.3286,440,59343.66330000001,0.1023,1318.69,4,37,633,Star Resellers
+176,Rodeway Bike Store,Value Added Reseller,Münster,Germany,132143.7064,165,11689.892100000001,0.0885,800.87,4,10,269,High Margin Specialists
+183,This Area Sporting Goods,Specialty Bike Shop,Chicago,United States,44568.8113,45,5572.6877,0.125,990.42,4,62,631,High Margin Specialists
+184,Go-cart and Bike Specialists,Warehouse,Carrollton,United States,138416.1478,146,16509.699099999998,0.1193,948.06,4,431,263,High Margin Specialists
+187,Trailblazing Sports,Warehouse,Cerritos,United States,372146.7266,279,14046.206099999998,0.0377,1333.86,4,9,998,Star Resellers
+195,Inexpensive Parts Shop,Specialty Bike Shop,North Sydney,Australia,10749.348,36,1505.7344999999998,0.1401,298.59,4,6,263,High Margin Specialists
+196,Exhibition Showroom,Warehouse,Milton Keynes,United Kingdom,156957.1662,228,15987.678799999998,0.1019,688.41,4,64,270,Star Resellers
+197,"Fabrikam Inc., West",Value Added Reseller,Novi,United States,248368.8168,283,23657.205700000006,0.0953,877.63,4,11,630,Star Resellers
+200,Basic Bike Company,Value Added Reseller,Port Orchard,United States,13137.3691,27,159.81250000000057,0.0122,486.57,4,162,904,High Margin Specialists
+207,Lubricant and Grease Suppliers,Specialty Bike Shop,Rocky Mount,United States,53376.3911,83,6673.1024,0.125,643.09,4,39,635,High Margin Specialists
+211,Sports Products Store,Warehouse,Lieusaint,France,1732.734,5,0.6916000000000118,0.0004,346.55,2,28,537,High Margin Specialists
+212,Enterprise Center,Value Added Reseller,München,Germany,8582.946,16,113.56970000000015,0.0132,536.43,4,10,269,High Margin Specialists
+217,City Manufacturing,Warehouse,Shelton,United States,5575.2477,10,589.4266000000002,0.1057,557.52,3,30,558,High Margin Specialists
+219,Extras Sporting Goods,Value Added Reseller,Chicago,United States,67.539,1,17.5601,0.26,67.54,1,464,0,High Margin Specialists
+224,Pedal Systems Company,Warehouse,Florence,United States,1772.4316,4,28.63799999999995,0.0162,443.11,2,391,268,High Margin Specialists
+225,Optimal Bikes,Value Added Reseller,Campbellsville,United States,2254.7753,14,296.6549999999999,0.1316,161.06,4,370,267,High Margin Specialists
+226,Leisure Activities,Specialty Bike Shop,Hull,Canada,19151.57,23,2134.4718000000007,0.1115,832.68,3,384,273,High Margin Specialists
+228,Home Town Bike Store,Value Added Reseller,Ottawa,Canada,2225.328,7,51.21960000000016,0.023,317.9,2,11,258,High Margin Specialists
+229,Instant Cycle Store,Specialty Bike Shop,Colombes,France,8075.4331,18,84.88680000000015,0.0105,448.64,4,49,643,High Margin Specialists
+233,Fashionable Department Stores,Warehouse,New Hartford,United States,286645.1386,401,31065.038099999998,0.1084,714.83,4,36,632,Star Resellers
+236,Closeout Boutique,Warehouse,Seattle,United States,536546.1196,375,56483.51419999999,0.1053,1430.79,4,41,637,Star Resellers
+237,Client Discount Store,Value Added Reseller,Chicago,United States,22007.8156,47,267.7819000000008,0.0122,468.25,4,31,632,High Margin Specialists
+238,A Great Bicycle Company,Specialty Bike Shop,Jefferson City,United States,9055.2903,14,27.311300000000276,0.003,646.81,3,178,827,High Margin Specialists
+242,Spoke Manufacturers,Warehouse,Miami,United States,1615.2174,5,21.790799999999948,0.0135,323.04,2,335,361,High Margin Specialists
+243,Recreation Supplies,Value Added Reseller,Kendall,United States,1295.988,1,99.11720000000014,0.0765,1295.99,1,353,0,High Margin Specialists
+245,Leather Seat Factory,Warehouse,Brossard,Canada,472819.0537,241,48711.1696,0.103,1961.9,3,63,632,Star Resellers
+246,Large Bike Shop,Value Added Reseller,Montreal,Canada,58.069,2,15.0978,0.26,29.03,1,529,172,High Margin Specialists
+247,Major Amusement Company,Specialty Bike Shop,Orly,France,28485.664099999998,70,3835.792700000001,0.1347,406.94,4,37,633,High Margin Specialists
+250,Express Bike Services,Specialty Bike Shop,London,United Kingdom,13219.944,39,1992.4685,0.1507,338.97,4,16,283,High Margin Specialists
+252,Classic Cycle Store,Value Added Reseller,Milford,United States,131724.3187,92,13738.959400000002,0.1043,1431.79,3,64,930,High Margin Specialists
+254,Safe Cycles Shop,Warehouse,Bellevue,United States,443316.1125,375,43762.363,0.0987,1182.18,4,9,630,Star Resellers
+256,Rental Bikes,Specialty Bike Shop,Dallas,United States,40581.1773,33,228.91870000000154,0.0056,1229.73,2,201,827,High Margin Specialists
+262,General Industries,Specialty Bike Shop,Calgary,Canada,8399.9938,54,1030.7344,0.1227,155.56,3,2,635,High Margin Specialists
+265,Full Sports Supply,Specialty Bike Shop,Paris,France,28198.3468,41,3547.274400000001,0.1258,687.76,4,436,268,High Margin Specialists
+268,Channel Outlet,Specialty Bike Shop,High Wycombe,United Kingdom,2157.888,20,416.4988,0.193,107.89,2,5,260,High Margin Specialists
+269,Curbside Universe,Warehouse,Euclid,United States,16320.4211,24,157.87240000000048,0.0097,680.02,4,420,637,High Margin Specialists
+274,Active Systems,Specialty Bike Shop,Duluth,United States,639.9813,6,141.79829999999998,0.2216,106.66,2,417,274,High Margin Specialists
+278,Tread Industries,Warehouse,Orlando,United States,431991.55,81,25531.663299999986,0.0591,5333.23,4,765,272,Star Resellers
+280,Standard Bikes,Specialty Bike Shop,Barrie,Canada,49438.8177,60,5749.5357,0.1163,823.98,4,34,633,High Margin Specialists
+285,Nearest Bike Store,Value Added Reseller,North Ryde,Australia,3009.54,6,3.009500000000031,0.001,501.59,1,6,263,High Margin Specialists
+287,Handy Bike Services,Warehouse,Madison Heights,United States,9457.8078,10,258.46550000000036,0.0273,945.78,3,15,1004,High Margin Specialists
+288,Kickstand Sellers,Value Added Reseller,Westland,United States,973.6661999999999,6,248.14129999999994,0.2549,162.28,2,366,196,High Margin Specialists
+289,Moderately-Priced Bikes Store,Specialty Bike Shop,Renton,United States,95321.70199999999,68,7910.959699999999,0.083,1401.79,3,39,1002,High Margin Specialists
+291,Grand Bicycle Stores,Value Added Reseller,Baytown,United States,14042.0812,11,1380.1907999999999,0.0983,1276.55,4,1,637,High Margin Specialists
+296,Extreme Toy Store,Warehouse,Birmingham,United States,20510.735,23,2166.9059000000007,0.1056,891.77,3,33,632,High Margin Specialists
+300,Nice Bikes,Value Added Reseller,Ottawa,Canada,11035.8233,15,704.1097999999998,0.0638,735.72,2,375,267,High Margin Specialists
+303,Seaside Bike Works,Value Added Reseller,North Sydney,Australia,9413.352,17,97.07400000000011,0.0103,553.73,2,6,274,High Margin Specialists
+304,Essential Bike Works,Specialty Bike Shop,Abingdon,United Kingdom,59.334,2,22.3487,0.3767,29.67,1,2,286,High Margin Specialists
+307,Riding Associates,Specialty Bike Shop,Puyallup,United States,10349.1255,18,1370.7695,0.1325,574.95,3,39,261,High Margin Specialists
+309,The Gear Store,Value Added Reseller,Houston,United States,618616.1283,393,54630.767199999995,0.0883,1574.09,4,22,1002,Star Resellers
+310,Orange Bicycle Company,Specialty Bike Shop,Peoria,United States,10016.3426,56,1350.1614000000002,0.1348,178.86,3,38,633,High Margin Specialists
+312,Resale Services,Value Added Reseller,Culver City,United States,492362.7634,374,42551.139899999995,0.0864,1316.48,4,21,1006,Star Resellers
+314,One-Piece Handle Bars,Warehouse,Tupelo,United States,722.5949,1,98.7546000000001,0.1367,722.59,1,742,0,High Margin Specialists
+315,Juvenile Sports Equipment,Value Added Reseller,Merritt Island,United States,212208.83669999999,168,19302.3172,0.091,1263.15,4,422,630,Star Resellers
+316,Low Price Cycles,Specialty Bike Shop,Mississauga,Canada,11277.198,14,1351.5739,0.1199,805.51,4,36,272,High Margin Specialists
+318,First-Rate Outlet,Value Added Reseller,Victoria,Canada,4537.6374,10,5.846500000000315,0.0013,453.76,3,774,275,High Margin Specialists
+322,Tachometers and Accessories,Specialty Bike Shop,Milton Keynes,United Kingdom,22154.9497,39,2665.579500000001,0.1203,568.08,4,10,629,High Margin Specialists
+323,Metro Bike Works,Warehouse,Detroit,United States,8886.4791,9,937.7296999999996,0.1055,987.39,3,18,643,High Margin Specialists
+325,All Cycle Shop,Specialty Bike Shop,Bothell,United States,3003.2028,28,893.1360000000001,0.2974,107.26,3,49,646,High Margin Specialists
+326,Year-Round Sports,Warehouse,Kent,United States,148659.2722,43,10765.721099999997,0.0724,3457.19,3,566,456,High Margin Specialists
+327,World of Bikes,Value Added Reseller,Saint Louis,United States,278568.57,289,27448.6288,0.0985,963.91,4,12,633,Star Resellers
+334,Retreat Inn,Value Added Reseller,Waterloo,Canada,8917.5594,21,111.14130000000021,0.0125,424.65,4,31,652,High Margin Specialists
+335,Scratch-Resistant Finishes Company,Specialty Bike Shop,Mississauga,Canada,45769.5797,36,3519.7102000000004,0.0769,1271.38,3,308,726,High Margin Specialists
+337,Recreation Toy Store,Value Added Reseller,Paris La Defense,France,11652.9911,30,1315.7173999999998,0.1129,388.43,4,70,635,High Margin Specialists
+338,Rambling Tours,Specialty Bike Shop,Stuttgart,Germany,228.582,2,59.43119999999998,0.26,114.29,1,286,0,High Margin Specialists
+339,Major Bicycle Store,Warehouse,Matraville,Australia,200.052,1,0.20009999999999195,0.001,200.05,1,290,0,High Margin Specialists
+340,Nearby Cycle Shop,Value Added Reseller,West Sussex,United Kingdom,273185.8908,198,23563.531500000005,0.0863,1379.73,4,14,639,Star Resellers
+342,Leather and Vinyl Manufacturing,Warehouse,Indianapolis,United States,55710.7042,74,234.53020000000183,0.0042,752.85,4,750,273,High Margin Specialists
+345,Genial Bike Associates,Warehouse,Humble,United States,294389.8076,250,30482.0747,0.1035,1177.56,4,27,630,Star Resellers
+346,Great Bicycle Supply,Value Added Reseller,Moline,United States,276526.4031,38,17972.509799999985,0.065,7277.01,4,761,273,Star Resellers
+348,Bold Bike Accessories,Warehouse,Loveland,United States,144735.22269999998,75,10271.648799999997,0.071,1929.8,4,16,1003,High Margin Specialists
+349,Exercise Center,Value Added Reseller,San Jose,United States,1625.2755,6,319.59899999999993,0.1966,270.88,2,361,287,High Margin Specialists
+350,Mountain Emporium,Specialty Bike Shop,Nashville,United States,6214.259,1,624.9795000000004,0.1006,6214.26,1,578,0,High Margin Specialists
+352,Twelfth Bike Store,Value Added Reseller,Edmonton,Canada,292234.8548,264,28366.3439,0.0971,1106.95,4,24,637,Star Resellers
+353,Two-Wheeled Transit Company,Specialty Bike Shop,Winnipeg,Canada,66193.2168,53,5415.066,0.0818,1248.93,3,45,1004,High Margin Specialists
+354,Serious Cycles,Warehouse,Calgary,Canada,289489.2037,67,19600.072199999995,0.0677,4320.73,3,215,816,Star Resellers
+355,Spare Parts Co.,Value Added Reseller,Paris,France,253972.8579,297,26754.329300000005,0.1053,855.13,4,69,635,Star Resellers
+358,Mail Market,Value Added Reseller,York,United Kingdom,465.9,6,76.1775,0.1635,77.65,2,44,258,High Margin Specialists
+359,Mechanical Sports Center,Specialty Bike Shop,Cincinnati,United States,6016.3075,50,793.9988999999998,0.132,120.33,3,21,642,High Margin Specialists
+365,Distinctive Store,Specialty Bike Shop,Barstow,United States,28783.5448,24,13.830500000001319,0.0005,1199.31,2,731,277,High Margin Specialists
+368,Elemental Sporting Goods,Specialty Bike Shop,Decatur,United States,120347.3237,75,2408.652600000001,0.02,1604.63,3,3,1004,High Margin Specialists
+369,Distinctive Cycles Sales & Service,Warehouse,Florence,United States,12343.8207,9,1240.9246,0.1005,1371.54,2,1,1005,High Margin Specialists
+370,Acceptable Sales & Service,Value Added Reseller,Calgary,Canada,1258.3767,3,18.937800000000095,0.015,419.46,1,756,274,High Margin Specialists
+376,Commerce Bicycle Specialists,Value Added Reseller,Berkshire,United Kingdom,302043.7728,314,29363.554500000002,0.0972,961.92,4,34,632,Star Resellers
+378,Grown-up Bike Store,Warehouse,Springdale,United States,17623.2972,30,703.6745000000004,0.0399,587.44,2,31,270,High Margin Specialists
+379,Fad Outlet,Value Added Reseller,Portland,United States,14378.8968,22,580.7204,0.0404,653.59,1,8,635,High Margin Specialists
+380,First Department Stores,Specialty Bike Shop,Cheyenne,United States,40268.8978,59,4728.8811000000005,0.1174,682.52,4,62,632,High Margin Specialists
+381,Bicycle Lines Distributors,Warehouse,Saint Louis,United States,274395.5537,250,26286.9153,0.0958,1097.58,4,39,636,Star Resellers
+382,Beneficial Exercises and Activities,Value Added Reseller,San Antonio,United States,1714.6947,5,13.689499999999985,0.008,342.94,2,93,553,High Margin Specialists
+384,Sparkling Paint and Finishes,Warehouse,San Ysidro,United States,140874.514,34,9632.494399999998,0.0684,4143.37,3,768,275,High Margin Specialists
+385,Sturdy Toys,Value Added Reseller,Gilroy,United States,427890.8367,193,36315.8934,0.0849,2217.05,4,26,1000,Star Resellers
+386,Touring Services,Specialty Bike Shop,Myrtle Beach,United States,12790.0805,19,19.520800000000392,0.0015,673.16,2,187,823,High Margin Specialists
+388,Road Way Sales and Rental,Value Added Reseller,Vancouver,Canada,758.9395,2,89.57149999999999,0.118,379.47,2,380,181,High Margin Specialists
+389,Sixth Bike Store,Specialty Bike Shop,Surrey,Canada,61809.1325,38,4737.4643,0.0766,1626.56,3,409,635,High Margin Specialists
+390,Plastic Parts Company,Warehouse,Waterloo,Canada,11138.7305,8,741.4360000000001,0.0666,1392.34,2,45,910,High Margin Specialists
+395,Online Bike Sellers,Specialty Bike Shop,Midland,United States,17582.3954,5,1770.6853000000008,0.1007,3516.48,2,372,252,High Margin Specialists
+396,Executive Gift Store,Warehouse,New Castle,United States,146256.5741,118,16601.6958,0.1135,1239.46,4,36,632,High Margin Specialists
+397,Capable Sales and Service,Value Added Reseller,Seattle,United States,148837.6949,37,9989.348099999997,0.0671,4022.64,3,804,270,High Margin Specialists
+401,Brightwork Company,Specialty Bike Shop,Las Vegas,United States,184846.2361,114,14683.906899999998,0.0794,1621.46,4,17,1003,Star Resellers
+406,The Commissary,Value Added Reseller,Outremont,Canada,714.5072,2,65.72429999999994,0.092,357.25,1,467,83,High Margin Specialists
+411,Kids and Adults Cycle Shop,Warehouse,North Sydney,Australia,2130.762,3,190.84170000000006,0.0896,710.25,2,37,273,High Margin Specialists
+412,Leisure Clearing House,Value Added Reseller,Birmingham,United Kingdom,7047.5964,13,612.0231000000002,0.0868,542.12,1,19,647,High Margin Specialists
+414,Grand Discount Store,Warehouse,Daleville,United States,292229.5405,310,30645.900100000003,0.1049,942.68,4,57,635,Star Resellers
+417,Genuine Bike Shop,Warehouse,San Antonio,United States,43911.1524,59,184.89190000000218,0.0042,744.26,4,180,833,High Margin Specialists
+421,Fitness Cycling,Value Added Reseller,Whittier,United States,1524.75,5,162.07620000000009,0.1063,304.95,2,61,289,High Margin Specialists
+422,Consolidated Sales,Specialty Bike Shop,Gaffney,United States,193708.595,125,16557.1526,0.0855,1549.67,4,25,1001,Star Resellers
+423,Bike Rims Company,Warehouse,Biloxi,United States,76463.8734,80,83.53220000000263,0.0011,955.8,4,432,630,High Margin Specialists
+424,Bikes for Two,Value Added Reseller,Richmond Hill,Canada,7777.8731,27,389.2335000000005,0.05,288.07,4,12,633,High Margin Specialists
+425,Bikes for Kids and Adults,Specialty Bike Shop,Etobicoke,Canada,29651.1109,44,3606.4934000000007,0.1216,673.89,4,55,636,High Margin Specialists
+427,Atypical Bike Company,Value Added Reseller,Paris,France,381.192,2,2.271600000000049,0.006,190.6,1,221,91,High Margin Specialists
+432,Super Sports Store,Warehouse,Indianapolis,United States,51803.1415,53,410.6996000000014,0.0079,977.42,4,26,997,High Margin Specialists
+434,Road-Way Mart,Specialty Bike Shop,Missoula,United States,2485.7036,1,249.99179999999978,0.1006,2485.7,1,612,0,High Margin Specialists
+435,Satin Finish Company,Warehouse,Corpus Christi,United States,278412.801,263,26831.003800000002,0.0964,1058.6,3,20,642,Star Resellers
+437,Professional Cycle Store,Value Added Reseller,Phoenix,United States,247900.766,191,25179.821300000003,0.1016,1297.91,3,70,634,Star Resellers
+439,Regional Manufacturing,Warehouse,Tucson,United States,1440.8086,2,199.9598,0.1388,720.4,2,849,167,High Margin Specialists
+440,Hobby Store,Value Added Reseller,Orlando,United States,3048.591,13,477.33800000000025,0.1566,234.51,3,67,636,High Margin Specialists
+442,Original Bicycle Supply Company,Warehouse,Toronto,Canada,416653.4823,387,42050.9245,0.1009,1076.62,4,61,1015,Star Resellers
+444,Finer Cycle Shop,Specialty Bike Shop,Calgary,Canada,59324.4988,85,7211.831900000001,0.1216,697.94,4,20,645,High Margin Specialists
+445,First Center,Warehouse,Pantin,France,1718.088,4,186.34150000000002,0.1085,429.52,2,7,274,High Margin Specialists
+449,Bike Products and Accessories,Value Added Reseller,Virginia Beach,United States,4378.7209,22,668.0212000000001,0.1526,199.03,4,31,652,High Margin Specialists
+456,Riding Excursions,Specialty Bike Shop,Irvine,United States,419.4589,1,6.312600000000032,0.015,419.46,1,870,0,High Margin Specialists
+457,Retail Sporting Equipment,Warehouse,Mesa,United States,114294.4289,91,13143.844100000004,0.115,1255.98,3,360,264,High Margin Specialists
+459,Parts Shop,Specialty Bike Shop,La Grange,United States,24.294,1,6.316400000000002,0.26,24.29,1,240,0,High Margin Specialists
+460,Price-Cutter Discount Bikes,Warehouse,Brossard,Canada,64700.4679,83,117.86710000000245,0.0018,779.52,4,9,999,High Margin Specialists
+462,General Riding Supplies,Specialty Bike Shop,Richmond,Canada,1399.788,2,132.1358,0.0944,699.89,2,30,467,High Margin Specialists
+467,The Cycle Store,Value Added Reseller,Falls Church,United States,149.874,1,13.088999999999999,0.0873,149.87,1,172,0,High Margin Specialists
+468,Blue Bicycle Company,Specialty Bike Shop,Monroe,United States,3922.2795,5,74.45770000000024,0.019,784.46,4,127,540,High Margin Specialists
+469,Vast Bike Sales and Rental,Warehouse,Chehalis,United States,138840.8436,65,9927.313199999997,0.0715,2136.01,4,756,273,High Margin Specialists
+470,Wingtip Toys,Value Added Reseller,Kennewick,United States,1291.788,3,176.7559000000001,0.1368,430.6,3,78,182,High Margin Specialists
+472,Summer Sports Place,Warehouse,Norridge,United States,2518.5038,4,263.98680000000024,0.1048,629.63,3,179,462,High Margin Specialists
+473,Racing Toys,Value Added Reseller,Phoenix,United States,38782.4965,61,580.2222000000012,0.015,635.78,4,11,1000,High Margin Specialists
+474,Retail Cycle Shop,Specialty Bike Shop,Eureka,United States,91.176,1,28.492400000000004,0.3125,91.18,1,631,0,High Margin Specialists
+475,Real Sporting Goods,Warehouse,Phoenix,United States,399011.9466,418,41738.272300000004,0.1046,954.57,4,71,633,Star Resellers
+476,Noiseless Gear Company,Value Added Reseller,Columbus,United States,293610.7156,210,27331.3941,0.0931,1398.15,4,21,641,Star Resellers
+478,Major Cycling,Warehouse,Richmond,Canada,12056.2444,14,34.43650000000066,0.0029,861.16,2,128,912,High Margin Specialists
+484,Downhill Bicycle Specialists,Warehouse,Berks,United Kingdom,141834.2702,166,17265.4438,0.1217,854.42,4,403,263,High Margin Specialists
+485,Clamps & Brackets Co.,Value Added Reseller,Leesburg,United States,87270.1486,29,5803.6414,0.0665,3009.32,4,778,274,High Margin Specialists
+486,Convenient Bike Shop,Specialty Bike Shop,Braintree,United States,32646.322600000003,31,156.6385000000008,0.0048,1053.11,2,787,275,High Margin Specialists
+487,Bike Experts,Warehouse,Salem,United States,147784.2145,177,17753.129399999998,0.1201,834.94,4,408,267,High Margin Specialists
+488,Bicycle Accessories and Kits,Value Added Reseller,Lewiston,United States,6587.3763,11,819.6086999999998,0.1244,598.85,3,443,183,High Margin Specialists
+489,Cash & Carry Bikes,Specialty Bike Shop,Cedar Park,United States,4008.8626999999997,5,423.51920000000007,0.1056,801.77,2,83,553,High Margin Specialists
+490,Extraordinary Bike Works,Warehouse,Mesquite,United States,418436.5299,279,42393.6719,0.1013,1499.77,4,0,624,Star Resellers
+492,Basic Sports Equipment,Specialty Bike Shop,Baldwin Park,United States,58236.0665,64,4759.638599999999,0.0817,909.94,4,34,998,High Margin Specialists
+494,Worthwhile Activity Store,Value Added Reseller,Miami,United States,130597.77620000001,112,12689.119000000002,0.0972,1166.05,3,46,654,High Margin Specialists
+495,Tough and Reliable Parts,Specialty Bike Shop,Lakeland,United States,8537.444800000001,13,74.96360000000026,0.0088,656.73,3,199,741,High Margin Specialists
+496,Top Sports Supply,Warehouse,Edmonton,Canada,602559.8926,441,64487.8745,0.107,1366.35,4,56,635,Star Resellers
+497,Valley Toy Store,Value Added Reseller,Richmond,Canada,234957.3217,235,23929.882,0.1018,999.82,4,12,633,Star Resellers
+502,Metropolitan Bicycle Supply,Warehouse,London,United Kingdom,559620.9462,303,51163.7002,0.0914,1846.93,4,1,625,Star Resellers
+504,Historic Bicycle Sales,Specialty Bike Shop,Redford,United States,26558.922,17,1703.2888,0.0641,1562.29,2,801,268,High Margin Specialists
+506,Great Bikes,Value Added Reseller,Casper,United States,700803.7857,290,57025.130000000005,0.0814,2416.56,4,62,999,Star Resellers
+513,Village Tours,Specialty Bike Shop,Newport,United States,14603.119400000001,36,1997.1933000000006,0.1368,405.64,4,393,276,High Margin Specialists
+516,Seats and Saddles Company,Specialty Bike Shop,Kingston,Canada,1229.4589,1,123.64890000000014,0.1006,1229.46,1,565,0,High Margin Specialists
+521,Mobile Outlet,Value Added Reseller,Woonsocket,United States,1.374,1,0.5175000000000001,0.3766,1.37,1,302,0,High Margin Specialists
+524,Chain and Chain Tool Distributions,Value Added Reseller,Smithfield,United States,165.231,1,42.9601,0.26,165.23,1,680,0,High Margin Specialists
+525,Cycles and Scooters,Specialty Bike Shop,Byron,United States,15007.2845,13,36.70359999999938,0.0024,1154.41,2,727,206,High Margin Specialists
+530,Valuable Bike Parts Company,Value Added Reseller,Orlando,United States,249378.6837,315,26411.801300000006,0.1059,791.68,4,69,633,Star Resellers
+532,The Showroom,Warehouse,Kanata,Canada,2041.0745,5,56.71250000000007,0.0278,408.21,2,18,923,High Margin Specialists
+535,Spa and Exercise Outfitters,Warehouse,Cergy,France,209695.1458,264,19401.2212,0.0925,794.3,4,32,631,Star Resellers
+541,Nonskid Tire Company,Warehouse,Great Falls,United States,15319.2215,26,85.74510000000055,0.0056,589.2,3,27,916,High Margin Specialists
+542,Finer Parts Shop,Value Added Reseller,Kirkland,United States,172227.73129999998,131,15829.404700000001,0.0919,1314.72,3,6,924,High Margin Specialists
+543,Friendly Neighborhood Bikes,Specialty Bike Shop,Johnson Creek,United States,11142.599999999999,15,1349.4880999999998,0.1211,742.84,3,1,357,High Margin Specialists
+544,Valley Bicycle Specialists,Warehouse,Kansas City,United States,140130.8409,150,12900.275700000004,0.0921,934.21,3,5,531,High Margin Specialists
+545,Finish and Sealant Products,Value Added Reseller,San Bruno,United States,5925.7862000000005,12,60.59119999999988,0.0102,493.82,4,739,273,High Margin Specialists
+546,Field Trip Store,Value Added Reseller,Loveland,United States,671618.0296,357,54017.2721,0.0804,1881.28,4,15,639,Star Resellers
+551,Vinyl and Plastic Goods Corporation,Warehouse,Toronto,Canada,16225.015,10,1327.5282000000002,0.0818,1622.5,2,8,1007,High Margin Specialists
+559,Some Discount Store,Specialty Bike Shop,Cheyenne,United States,109074.7558,31,6937.826999999998,0.0636,3518.54,2,110,920,High Margin Specialists
+560,Major Sport Suppliers,Warehouse,Rock Springs,United States,1146.246,5,109.3029000000001,0.0954,229.25,2,72,273,High Margin Specialists
+562,Practical Bike Supply Company,Specialty Bike Shop,Woodbury,United States,10717.8638,8,793.3317000000003,0.074,1339.73,2,380,637,High Margin Specialists
+564,Imported and Domestic Cycles,Value Added Reseller,North Las Vegas,United States,149.031,1,38.74810000000001,0.26,149.03,1,404,0,High Margin Specialists
+566,eCommerce Bikes,Warehouse,Gulfport,United States,446013.535,263,37662.55789999999,0.0844,1695.87,4,385,641,Star Resellers
+568,Economy Center,Specialty Bike Shop,Toronto,Canada,3464.1748,3,302.94099999999986,0.0874,1154.72,2,489,557,High Margin Specialists
+569,Designated Distributors,Warehouse,Nepean,Canada,125357.0395,103,171.98320000000237,0.0014,1217.06,4,763,271,High Margin Specialists
+570,Family's Favorite Bike Shop,Value Added Reseller,Montreal,Canada,10237.7845,17,1170.6291999999999,0.1143,602.22,3,29,638,High Margin Specialists
+571,Community Department Stores,Specialty Bike Shop,Boulogne-sur-Mer,France,54633.6577,78,6606.176800000002,0.1209,700.43,4,9,629,High Margin Specialists
+574,Area Sheet Metal Supply,Specialty Bike Shop,London,United Kingdom,2446.3776,7,57.20339999999996,0.0234,349.48,3,28,627,High Margin Specialists
+577,Synthetic Materials Manufacturing,Specialty Bike Shop,Tacoma,United States,2898.7419000000004,5,215.50270000000017,0.0743,579.75,3,425,467,High Margin Specialists
+578,The Bike Shop,Warehouse,Puyallup,United States,18521.2815,14,2154.7591000000007,0.1163,1322.95,2,58,1013,High Margin Specialists
+580,Rural Sales and Service,Specialty Bike Shop,San Antonio,United States,5146.321900000001,7,7.6140000000004555,0.0015,735.19,2,737,110,High Margin Specialists
+583,Professional Containers and Packaging Co.,Specialty Bike Shop,Surprise,United States,11739.8794,34,1627.0710000000006,0.1386,345.29,4,396,286,High Margin Specialists
+584,Qualified Sales and Repair Services,Warehouse,Savannah,United States,137715.8538,115,507.1983000000041,0.0037,1197.53,4,770,273,High Margin Specialists
+585,Next-Door Bike Store,Value Added Reseller,Memphis,United States,131102.9823,128,11458.196900000003,0.0874,1024.24,4,352,649,High Margin Specialists
+586,One Bike Company,Specialty Bike Shop,Montreal,Canada,60761.5522,47,7172.4111,0.118,1292.8,4,10,630,High Margin Specialists
+588,General Cycle Storehouse,Value Added Reseller,Burnaby,Canada,261429.7734,134,7431.573299999999,0.0284,1950.97,4,370,638,Star Resellers
+594,Casual Bicycle Store,Value Added Reseller,Nashua,United States,357052.9363,263,36054.197499999995,0.101,1357.62,4,67,633,Star Resellers
+596,Coho Sports,Warehouse,Everett,United States,8477.6171,14,652.4046000000001,0.077,605.54,3,22,637,High Margin Specialists
+598,Black Bicycle Company,Specialty Bike Shop,Branson,United States,2472.3107,2,248.64480000000003,0.1006,1236.16,1,400,95,High Margin Specialists
+606,Little Bicycle Supply Shop,Value Added Reseller,Mosinee,United States,3560.9519999999998,6,7.104999999999961,0.002,593.49,1,29,281,High Margin Specialists
+609,Good Toys,Value Added Reseller,Auburn,United States,2803.9816,8,119.12190000000012,0.0425,350.5,1,14,625,High Margin Specialists
+612,General Associates,Value Added Reseller,Hollywood,United States,101000.42480000001,106,401.3551000000036,0.004,952.83,4,27,997,High Margin Specialists
+613,Famous Bike Shop,Specialty Bike Shop,Vancouver,Canada,45502.9712,61,5617.6005,0.1235,745.95,4,8,644,High Margin Specialists
+617,Tubeless Tire Company,Warehouse,Oxford,United Kingdom,200.052,1,0.20009999999999195,0.001,200.05,1,311,0,High Margin Specialists
+623,Hardware Components,Warehouse,Minneapolis,United States,408483.4465,85,27404.225399999996,0.0671,4805.69,4,761,272,Star Resellers
+626,Retail Sporting Goods,Warehouse,Las Vegas,United States,183.9382,1,13.7954,0.075,183.94,1,597,0,High Margin Specialists
+628,Executive Discount Store,Specialty Bike Shop,Miami,United States,2418.8216,3,199.54890000000015,0.0825,806.27,3,609,91,High Margin Specialists
+630,Eastside Parts Shop,Value Added Reseller,Toronto,Canada,1691.88,4,33.27790000000011,0.0197,422.97,3,13,259,High Margin Specialists
+632,Ultimate Bicycle Company,Warehouse,Morangis,France,147963.7934,143,13682.469,0.0925,1034.71,3,36,273,High Margin Specialists
+635,Sports Store,Warehouse,Cambridge,United Kingdom,6278.4211000000005,9,365.2135000000003,0.0582,697.6,2,9,536,High Margin Specialists
+636,Recreation Systems,Value Added Reseller,Logansport,United States,3554.9671,16,295.44359999999995,0.0831,222.19,3,0,627,High Margin Specialists
+642,Fitness Sport Boutique,Value Added Reseller,Kittery,United States,258976.6809,131,27506.983499999995,0.1062,1976.92,4,383,273,Star Resellers
+645,Superior Hardware Distributors,Value Added Reseller,Beaverton,United States,5229.2128,8,475.73590000000024,0.091,653.65,3,34,632,High Margin Specialists
+646,Yellow Bicycle Company,Specialty Bike Shop,Saint Louis,United States,77468.5928,28,4878.4841,0.063,2766.74,2,157,914,High Margin Specialists
+647,Solid Bike Parts,Warehouse,Arlington,United States,101203.5836,114,542.6266000000037,0.0054,887.75,4,357,652,High Margin Specialists
+650,Permanent Finish Products,Warehouse,Reno,United States,577089.5722,391,51149.6768,0.0886,1475.93,4,39,1001,Star Resellers
+651,Retread Tire Company,Value Added Reseller,Augusta,United States,5751.615100000001,8,448.36050000000023,0.078,718.95,1,371,268,High Margin Specialists
+652,Selected Distributors,Specialty Bike Shop,Marietta,United States,17162.9517,22,1927.4893000000006,0.1123,780.13,3,351,275,High Margin Specialists
+653,Mercantile Outlet,Warehouse,Toronto,Canada,144602.5816,105,16089.9627,0.1113,1377.17,3,411,272,High Margin Specialists
+654,Online Bike Warehouse,Value Added Reseller,Aurora,Canada,667.8299999999999,2,34.57679999999999,0.0518,333.92,2,562,77,High Margin Specialists
+655,Operational Manufacturing,Value Added Reseller,Dorval,Canada,352.38599999999997,3,43.52930000000002,0.1235,117.46,2,3,0,High Margin Specialists
+656,Impervious Paint Company,Specialty Bike Shop,Paris,France,12728.322,17,1502.1581999999999,0.118,748.72,3,37,274,High Margin Specialists
+661,General Department Stores,Value Added Reseller,Calgary,Canada,34022.173500000004,53,1837.573100000001,0.054,641.93,3,19,1012,High Margin Specialists
+663,Capital Riding Supplies,Warehouse,Augsburg,Germany,5404.2047999999995,10,209.16700000000006,0.0387,540.42,3,45,274,High Margin Specialists
+665,Authentic Sales and Service,Specialty Bike Shop,London,United Kingdom,1618.393,13,460.2406000000001,0.2844,124.49,2,358,269,High Margin Specialists
+667,Traditional Department Stores,Value Added Reseller,Valley Stream,United States,158171.4804,120,17422.588000000003,0.1101,1318.1,4,31,650,High Margin Specialists
+673,Countryside Company,Value Added Reseller,Bountiful,United States,6947.535,14,794.7834,0.1144,496.25,3,49,558,High Margin Specialists
+676,Better Bike Shop,Value Added Reseller,Austell,United States,422706.6026,359,38445.5142,0.091,1177.46,4,75,1004,Star Resellers
+677,Tire Exchange,Specialty Bike Shop,Ottawa,Canada,18779.825100000002,68,2913.6640000000007,0.1551,276.17,4,37,634,High Margin Specialists
+678,Vigorous Exercise Company,Warehouse,Toronto,Canada,841908.7707999999,530,2130.2508000000016,0.0025,1588.51,4,13,1001,Star Resellers
+680,Racing Tours,Specialty Bike Shop,Sèvres,France,20417.2598,42,2820.9055999999996,0.1382,486.13,4,42,275,High Margin Specialists
+683,Oils and Fluids Warehouse,Specialty Bike Shop,London,United Kingdom,62380.1211,46,7050.7402999999995,0.113,1356.09,3,27,628,High Margin Specialists
+685,Family Cycle Store,Value Added Reseller,Montreal,Canada,250219.27850000001,181,24408.0482,0.0975,1382.43,3,10,630,Star Resellers
+686,Finished Parts Shop,Specialty Bike Shop,Suresnes,France,35704.7489,39,4051.5676000000003,0.1135,915.51,3,31,651,High Margin Specialists
+687,Functional Store South,Warehouse,München,Germany,153764.3535,224,14046.200099999998,0.0913,686.45,4,36,273,Star Resellers
+690,Active Cycling,Warehouse,Heath,United States,1805.4540000000002,2,52.2410000000001,0.0289,902.73,2,445,93,High Margin Specialists
+695,Responsible Bike Dealers,Specialty Bike Shop,Kansas City,United States,23811.2557,65,3066.579600000001,0.1288,366.33,4,5,624,High Margin Specialists
+697,Brakes and Gears,Value Added Reseller,Tooele,United States,877107.1923,298,62737.635899999994,0.0715,2943.31,4,31,1016,Star Resellers
+1,A Bike Store,Value Added Reseller,Seattle,United States,85177.0812,73,-219.85309999999635,-0.0026,1166.81,4,770,273,Mid Tier At Risk
+3,Advanced Bike Components,Warehouse,Irving,United States,361999.0583,394,-6130.394099999993,-0.0169,918.78,4,5,1000,High Volume At Risk
+4,Modular Cycle Systems,Value Added Reseller,Austin,United States,586524.9474,235,-17675.246199999998,-0.0301,2495.85,4,64,632,High Volume At Risk
+5,Metropolitan Sports Supply,Specialty Bike Shop,Fremont,United States,86177.84700000001,85,-2809.921299999998,-0.0326,1013.86,4,5,625,Low Volume At Risk
+8,Exemplary Cycles,Specialty Bike Shop,Miami,United States,22181.7291,31,-1892.7029999999988,-0.0853,715.54,4,15,274,Low Volume At Risk
+12,Bikes and Motorbikes,Warehouse,Toronto,Canada,249295.5484,251,-11097.636199999995,-0.0445,993.21,4,43,636,High Volume At Risk
+16,Bulk Discount Store,Value Added Reseller,London,United Kingdom,474401.8528,331,-14381.141599999997,-0.0303,1433.24,4,0,626,High Volume At Risk
+24,Eastside Department Store,Warehouse,Union City,United States,636226.4703,401,-34584.30979999999,-0.0544,1586.6,4,14,638,High Volume At Risk
+28,Commuter Bicycle Store,Value Added Reseller,Toronto,Canada,2999.466,20,-85.87169999999985,-0.0286,149.97,4,44,274,Low Volume At Risk
+31,Wheels Inc.,Value Added Reseller,Paris,France,2074.698,3,-23.513199999999927,-0.0113,691.57,1,38,262,Low Volume At Risk
+34,Cycles Wholesaler & Mfg.,Value Added Reseller,Warrington,United Kingdom,103282.8153,104,-7155.809699999995,-0.0693,993.1,4,75,275,Low Volume At Risk
+37,Two Bike Shops,Value Added Reseller,Puyallup,United States,7860.6248,12,-236.05429999999973,-0.03,655.05,3,8,636,Low Volume At Risk
+38,Finer Mart,Specialty Bike Shop,Billings,United States,9530.0235,12,-1012.1760999999993,-0.1062,794.17,1,2,274,Low Volume At Risk
+41,Distant Inn,Specialty Bike Shop,Milpitas,United States,60119.315,96,-2650.489599999998,-0.0441,626.24,4,64,621,Low Volume At Risk
+44,Games and Sport Supply Company,Specialty Bike Shop,Huntsville,United States,18055.392,9,-642.8052999999996,-0.0356,2006.15,2,5,260,Low Volume At Risk
+45,Every Bike Shop,Warehouse,La Vergne,United States,223285.3949,184,-1185.8963999999937,-0.0053,1213.51,4,25,996,High Volume At Risk
+47,Greater Bike Store,Specialty Bike Shop,Toronto,Canada,94372.203,72,-4541.925300000001,-0.0481,1310.73,3,13,1003,Low Volume At Risk
+48,Grand Industries,Warehouse,Montreal,Canada,141941.6478,77,-10305.963999999996,-0.0726,1843.4,2,10,268,Low Volume At Risk
+51,Ideal Components,Warehouse,Cloverdale,Australia,6678.108,3,-233.0099999999998,-0.0349,2226.04,2,3,271,Low Volume At Risk
+52,Instruments and Parts Company,Value Added Reseller,Gloucestershire,United Kingdom,201888.6635,125,-14077.718699999992,-0.0697,1615.11,3,4,261,Low Volume At Risk
+53,Incomparable Bicycle Store,Specialty Bike Shop,Norwood,United States,24342.4729,21,-1021.094299999999,-0.0419,1159.17,2,7,262,Low Volume At Risk
+54,Larger Cycle Shop,Warehouse,Melville,United States,537528.0959,482,-5247.272399999989,-0.0098,1115.2,4,0,1003,High Volume At Risk
+55,Kickstands and Accessories Company,Value Added Reseller,Medford,United States,115533.2761,107,-6754.230299999994,-0.0585,1079.75,2,0,266,Low Volume At Risk
+56,Latest Accessories Sales,Specialty Bike Shop,Portland,United States,16169.8899,13,-1262.1150999999993,-0.0781,1243.84,2,30,642,Low Volume At Risk
+59,Locks Company,Specialty Bike Shop,Visalia,United States,43699.0953,44,-7125.803899999998,-0.1631,993.16,4,9,264,Low Volume At Risk
+62,Manufacturers Inc,Specialty Bike Shop,Nashville,United States,66265.5107,73,-2394.613399999999,-0.0361,907.75,4,36,632,Low Volume At Risk
+64,Metal Clearing House,Value Added Reseller,Toronto,Canada,91879.1241,99,-9086.524499999996,-0.0989,928.07,2,44,275,Low Volume At Risk
+66,Neighborhood Store,Warehouse,Burnaby,Canada,112263.7267,152,-1795.7620999999992,-0.016,738.58,4,401,264,Low Volume At Risk
+67,Self-Contained Cycle Parts Company,Value Added Reseller,Verrieres Le Buisson,France,4456.5315,9,-44.347899999999896,-0.01,495.17,2,8,644,Low Volume At Risk
+68,North Bike Company,Specialty Bike Shop,Muehlheim,Germany,22090.0415,56,-565.5774999999996,-0.0256,394.47,4,36,274,Low Volume At Risk
+70,Outdoor Aerobic Systems Company,Value Added Reseller,London,United Kingdom,3288.918,3,-181.92059999999975,-0.0553,1096.31,2,117,182,Low Volume At Risk
+72,Outdoor Equipment Store,Warehouse,Nashua,United States,746317.5293,332,-27918.470499999996,-0.0374,2247.94,4,10,630,High Volume At Risk
+77,Mechanical Products Ltd.,Specialty Bike Shop,San Diego,United States,41195.5525,104,-703.9945999999989,-0.0171,396.11,4,41,635,Low Volume At Risk
+78,Preferred Bikes,Warehouse,Ontario,United States,413054.8167,328,-808.6945999999921,-0.002,1259.31,4,404,633,High Volume At Risk
+79,Reasonable Bicycle Sales,Value Added Reseller,Greeley,United States,572035.1121,329,-16424.891999999993,-0.0287,1738.71,4,27,631,High Volume At Risk
+80,Racks and Security Systems,Specialty Bike Shop,Sunrise,United States,10135.8348,6,-1748.0320999999994,-0.1725,1689.31,1,42,277,Low Volume At Risk
+81,Rally Day Mall,Warehouse,Miami,United States,334662.9861,358,-8918.041399999995,-0.0266,934.81,4,46,639,High Volume At Risk
+84,Rewarding Activities Company,Warehouse,Etobicoke,Canada,482738.705,436,-2735.6888999999874,-0.0057,1107.2,4,23,1004,High Volume At Risk
+85,Roadway Bicycle Supply,Value Added Reseller,Courbevoie,France,436921.6551,145,-33724.7589,-0.0772,3013.25,3,21,270,High Volume At Risk
+86,Bicycle Exporters,Specialty Bike Shop,Essen,Germany,30648.094,38,-2075.9408999999982,-0.0677,806.53,4,52,271,Low Volume At Risk
+87,Rich Department Store,Warehouse,Lane Cove,Australia,148996.5063,73,-24305.2538,-0.1631,2041.05,4,17,281,Low Volume At Risk
+89,Riverside Company,Specialty Bike Shop,Oberlin,United States,31960.3362,34,-2219.6622999999995,-0.0695,940.01,4,28,642,Low Volume At Risk
+90,Sales and Supply Company,Warehouse,Chantilly,United States,416702.7291,304,-10481.438499999993,-0.0252,1370.73,4,9,627,High Volume At Risk
+91,Scooters and Bikes Store,Value Added Reseller,Beaverton,United States,193258.6708,106,-824.9417999999911,-0.0043,1823.2,4,731,277,Mid Tier At Risk
+92,Sports Commodities,Specialty Bike Shop,Woodinville,United States,44945.467599999996,22,-2744.9628,-0.0611,2042.98,2,745,273,Mid Tier At Risk
+95,Rural Department Store,Specialty Bike Shop,Pleasanton,United States,26844.251,24,-3309.9916999999996,-0.1233,1118.51,2,57,284,Low Volume At Risk
+96,More Bikes!,Warehouse,Santa Ana,United States,7719.6876,6,-1.547999999999547,-0.0002,1286.61,2,739,275,Mid Tier At Risk
+97,Mountain Bike Center,Value Added Reseller,Newark,United States,456739.4746,255,-16978.987399999995,-0.0372,1791.14,4,36,633,High Volume At Risk
+102,National Manufacturing,Warehouse,Toronto,Canada,153402.3663,110,-960.3295999999964,-0.0063,1394.57,4,410,635,Mid Tier At Risk
+103,The Bike Outlet,Value Added Reseller,Pantin,France,105389.106,100,-11397.866699999995,-0.1082,1053.89,3,37,275,Low Volume At Risk
+104,Very Best Sports Supply,Specialty Bike Shop,Duesseldorf,Germany,12240.162,30,-436.31729999999936,-0.0356,408.01,4,3,260,Low Volume At Risk
+107,Wholesale Bikes,Specialty Bike Shop,Randolph,United States,41565.9496,61,-145.36129999999906,-0.0035,681.41,4,29,1010,Low Volume At Risk
+108,Wheelsets Storehouse,Warehouse,Kittery,United States,220888.849,254,-8925.9538,-0.0404,869.64,4,22,634,High Volume At Risk
+110,Vintage Sport Boutique,Value Added Reseller,Idaho Falls,United States,213751.9969,146,-13426.224099999992,-0.0628,1464.05,4,54,273,High Volume At Risk
+112,Town Industries,Warehouse,Dallas,United States,9969.0468,5,-1688.1054999999997,-0.1693,1993.81,2,3,260,Low Volume At Risk
+113,Trendy Department Stores,Value Added Reseller,Fontana,United States,4636.422,7,-5.18069999999976,-0.0011,662.35,2,1,259,Low Volume At Risk
+120,Machines & Cycles Store,Specialty Bike Shop,Montreal,Canada,46616.6681,55,-4900.775499999998,-0.1051,847.58,4,66,270,Low Volume At Risk
+122,Off-Price Bike Center,Value Added Reseller,Berlin,Germany,1847.0629,4,-202.6011000000001,-0.1097,461.77,2,2,274,Low Volume At Risk
+123,First Supplies,Specialty Bike Shop,North Ryde,Australia,30845.6093,38,-3120.4321999999984,-0.1012,811.73,4,57,274,Low Volume At Risk
+124,Nearby Sporting Goods,Warehouse,W. York,United Kingdom,7695.7047,5,-345.7180999999998,-0.0449,1539.14,2,31,652,Low Volume At Risk
+126,Famous Bike Sales and Service,Specialty Bike Shop,Endicott,United States,37289.1751,65,-509.257599999999,-0.0137,573.68,4,3,929,Low Volume At Risk
+131,Eighth Bike Store,Value Added Reseller,El Segundo,United States,107115.3315,102,-9449.468499999995,-0.0882,1050.15,2,25,270,Low Volume At Risk
+134,Budget Bike Company,Value Added Reseller,Millington,United States,1066.446,3,-35.144599999999954,-0.033,355.48,2,28,279,Low Volume At Risk
+135,Wonderful Bikes Inc.,Specialty Bike Shop,Memphis,United States,47318.0679,54,-422.04679999999814,-0.0089,876.26,4,394,260,Low Volume At Risk
+138,South Bike Company,Specialty Bike Shop,Vancouver,Canada,61696.5641,65,-3905.4648999999963,-0.0633,949.18,4,30,272,Low Volume At Risk
+139,Steel Inc.,Warehouse,Colombes,France,147554.8323,233,-1703.6902999999982,-0.0115,633.28,4,48,644,Low Volume At Risk
+142,Riding Cycles,Warehouse,Liverpool,United Kingdom,282701.3222,184,-15053.820699999998,-0.0532,1536.42,4,13,271,High Volume At Risk
+143,Modern Bike Store,Value Added Reseller,East Haven,United States,94374.0022,85,-164.8538999999958,-0.0017,1110.28,3,81,926,Low Volume At Risk
+147,Local Hardware Factory,Specialty Bike Shop,Chicago,United States,41816.7177,32,-874.5789999999994,-0.0209,1306.77,3,369,267,Mid Tier At Risk
+152,Distance Bikes,Value Added Reseller,Clarkston,United States,3611.2395,7,-60.50060000000006,-0.0168,515.89,2,24,638,Low Volume At Risk
+153,Widget Bicycle Specialists,Specialty Bike Shop,Clearwater,United States,323.994,1,-19.655599999999993,-0.0607,323.99,1,243,0,Low Volume At Risk
+154,Camping and Sports Store,Warehouse,Vancouver,Canada,343349.7835,122,-45765.5234,-0.1333,2814.34,3,9,265,High Volume At Risk
+155,Corner Bicycle Supply,Value Added Reseller,Toronto,Canada,787773.0436,429,-13782.510699999988,-0.0175,1836.3,4,13,1001,High Volume At Risk
+156,Metal Processing Company,Specialty Bike Shop,Montreal,Canada,65140.3868,142,-86.03559999999855,-0.0013,458.74,4,10,1000,Low Volume At Risk
+159,Uncompromising Quality Co,Specialty Bike Shop,North Ryde,Australia,11676.336,11,-363.2021999999995,-0.0311,1061.49,3,29,271,Low Volume At Risk
+160,Vigorous Sports Store,Warehouse,Oxon,United Kingdom,7183.5787,12,-234.59279999999967,-0.0327,598.63,4,7,636,Low Volume At Risk
+161,Weekend Tours,Value Added Reseller,Fort Wayne,United States,90764.2081,72,-268.2123999999967,-0.003,1260.61,2,417,639,Mid Tier At Risk
+162,Tire Company,Specialty Bike Shop,Warwick,United States,13657.5288,17,-7.850699999999662,-0.0006,803.38,2,213,742,Low Volume At Risk
+163,Sports Merchandise,Warehouse,Klamath Falls,United States,147421.7514,72,-14195.024599999995,-0.0963,2047.52,3,5,261,Low Volume At Risk
+165,Third Bike Store,Specialty Bike Shop,Dallas,United States,18400.5905,42,-109.94579999999965,-0.006,438.11,4,4,628,Low Volume At Risk
+166,Fitness Toy Store,Warehouse,Garland,United States,727272.6494,336,-26986.368299999984,-0.0371,2164.5,4,55,1000,High Volume At Risk
+167,Farthermost Bike Shop,Value Added Reseller,Carson,United States,693502.4852,422,-11657.507599999983,-0.0168,1643.37,4,32,998,High Volume At Risk
+169,Downtown Hotel,Warehouse,Fernley,United States,243014.55,54,-38214.535,-0.1573,4500.27,3,721,285,Mid Tier At Risk
+170,Excellent Riding Supplies,Value Added Reseller,Memphis,United States,853849.1795,366,-19428.980399999993,-0.0228,2332.92,4,0,1001,High Volume At Risk
+171,Eighty Toy Stores,Specialty Bike Shop,Mcdonough,United States,17433.196,29,-858.0915999999996,-0.0492,601.14,4,0,266,Low Volume At Risk
+173,Sundry Sporting Goods,Value Added Reseller,Vancouver,Canada,384394.0156,317,-7624.401899999991,-0.0198,1212.6,4,14,1003,High Volume At Risk
+177,Plastic Products Manufacturers,Specialty Bike Shop,Hawthorne,Australia,39071.476,35,-2367.711099999998,-0.0606,1116.33,2,56,270,Low Volume At Risk
+178,Rampart Amusement Company,Warehouse,W. York,United Kingdom,5179.8108999999995,9,-310.4618999999999,-0.0599,575.53,2,44,258,Low Volume At Risk
+179,Fourth Bike Store,Value Added Reseller,Mentor,United States,126693.2424,172,-7591.688799999994,-0.0599,736.59,4,0,267,Low Volume At Risk
+180,Full-Service Bike Store,Specialty Bike Shop,Pontiac,United States,51648.480899999995,26,-19007.716999999997,-0.368,1986.48,2,735,276,Mid Tier At Risk
+181,Family Entertainment Center,Warehouse,Clackamas,United States,4708.4929,7,-329.3776999999999,-0.07,672.64,2,21,270,Low Volume At Risk
+182,Another Bicycle Company,Value Added Reseller,Milwaukie,United States,216653.6233,176,-17555.467099999994,-0.081,1230.99,4,9,268,High Volume At Risk
+185,Weekend Bike Tours,Value Added Reseller,San Jose,United States,1020.594,1,-61.91599999999994,-0.0607,1020.59,1,331,0,Mid Tier At Risk
+186,Thrilling Bike Tours,Specialty Bike Shop,Santa Fe,United States,54331.8353,53,-3843.942399999997,-0.0707,1025.13,4,8,276,Low Volume At Risk
+190,Racing Partners,Warehouse,Calgary,Canada,10044.0915,26,-65.36899999999935,-0.0065,386.31,3,2,273,Low Volume At Risk
+191,Non-Slip Pedal Company,Value Added Reseller,Toronto,Canada,101871.2266,79,-419.80339999999507,-0.0041,1289.51,4,214,833,Low Volume At Risk
+193,Perfect Toys,Warehouse,Colomiers,France,391040.5897,123,-47414.380699999994,-0.1213,3179.19,3,20,271,High Volume At Risk
+198,Field Trip Inc,Specialty Bike Shop,Southfield,United States,15005.0345,31,-135.7219999999996,-0.009,484.03,4,317,634,Low Volume At Risk
+199,Authorized Bike Sales and Rental,Warehouse,Renton,United States,148588.0527,82,-9660.629599999997,-0.065,1812.05,3,39,274,Low Volume At Risk
+201,Unsurpassed Bikes,Specialty Bike Shop,Dallas,United States,21244.542,21,-685.7010999999994,-0.0323,1011.64,3,3,259,Low Volume At Risk
+202,Two-Seater Bikes,Warehouse,Plano,United States,2930.5488,4,-1436.6662999999999,-0.4902,732.64,2,11,271,Low Volume At Risk
+203,Separate Parts Corporation,Value Added Reseller,Monrovia,United States,286972.0866,268,-1650.903899999992,-0.0058,1070.79,4,434,629,High Volume At Risk
+205,Rally Master Company Inc,Warehouse,Chandler,United States,355141.9808,110,-45319.37780000001,-0.1276,3228.56,3,62,271,High Volume At Risk
+206,New and Used Bicycles,Value Added Reseller,Winston-Salem,United States,395413.1309,304,-8799.80869999999,-0.0223,1300.7,4,44,1005,High Volume At Risk
+208,Professional Cyclists,Warehouse,Toronto,Canada,21827.420700000002,18,-14.21339999999941,-0.0007,1212.63,2,411,634,Mid Tier At Risk
+210,Gasless Cycle Shop,Specialty Bike Shop,Toronto,Canada,59958.0273,130,-929.2116999999978,-0.0155,461.22,4,44,1005,Low Volume At Risk
+213,Fast Bike Works,Specialty Bike Shop,South Melbourne,Australia,67406.0456,45,-7597.334999999997,-0.1127,1497.91,3,41,276,Low Volume At Risk
+214,Exclusive Bicycle Mart,Warehouse,Lancaster,United Kingdom,4680.9267,7,-151.84679999999997,-0.0324,668.7,3,17,638,Low Volume At Risk
+215,Eleventh Bike Store,Value Added Reseller,Westport,United States,57.6808,1,-5.768000000000001,-0.1,57.68,1,1000,0,Mid Tier At Risk
+216,Painters Bicycle Specialists,Specialty Bike Shop,Waterbury,United States,107591.669,150,-1734.2676999999976,-0.0161,717.28,4,8,1010,Low Volume At Risk
+218,Sure & Reliable Sporting Goods,Value Added Reseller,Longview,United States,387118.3508,228,-3358.9330999999884,-0.0087,1697.89,4,381,638,High Volume At Risk
+220,Best o' Bikes,Specialty Bike Shop,Saint Louis,United States,18520.2608,34,-779.9727999999991,-0.0421,544.71,4,73,272,Low Volume At Risk
+221,Bike Dealers Association,Warehouse,Las Cruces,United States,429050.873,432,-6458.606699999989,-0.0151,993.17,4,53,999,High Volume At Risk
+222,Sample Bike Store,Value Added Reseller,Denver,United States,87201.3143,58,-353.82819999999646,-0.0041,1503.47,3,632,375,Mid Tier At Risk
+223,Paints and Solvents Company,Specialty Bike Shop,Englewood,United States,58775.0691,55,-2680.5015999999964,-0.0456,1068.64,4,4,260,Low Volume At Risk
+227,"Health Spa, Limited",Warehouse,Toronto,Canada,730798.7139,352,-26332.8171,-0.036,2076.13,4,60,1014,High Volume At Risk
+230,Global Bike Retailers,Warehouse,Bad Soden,Germany,337756.7319,196,-26648.548399999996,-0.0789,1723.25,4,34,273,High Volume At Risk
+231,Helmets and Cycles,Value Added Reseller,Lavender Bay,Australia,116300.9474,113,-9725.259399999994,-0.0836,1029.21,3,48,278,Low Volume At Risk
+232,Exceptional Cycle Services,Specialty Bike Shop,Basingstoke Hants,United Kingdom,22606.1047,41,-3055.177899999999,-0.1351,551.37,4,64,286,Low Volume At Risk
+234,Eastside Sporting Goods,Value Added Reseller,Indianapolis,United States,357708.7748,194,-2998.089699999994,-0.0084,1843.86,4,414,273,High Volume At Risk
+235,Certified Bicycle Supply,Specialty Bike Shop,Lynnwood,United States,40148.0299,99,-167.14039999999966,-0.0042,405.54,4,0,625,Low Volume At Risk
+239,Bicycle Merchandise Warehouse,Warehouse,Santa Monica,United States,354805.2476,219,-4627.0121,-0.013,1620.12,4,377,272,High Volume At Risk
+240,Wire Baskets and Parts,Value Added Reseller,Orange,United States,88310.81790000001,90,-92.07609999999565,-0.001,981.23,4,765,272,Mid Tier At Risk
+241,Vale Riding Supplies,Specialty Bike Shop,Canoga Park,United States,21287.0581,13,-2989.4064999999987,-0.1404,1637.47,2,49,272,Low Volume At Risk
+244,Retail Discount Store,Specialty Bike Shop,Montreal,Canada,672.294,1,-40.785799999999995,-0.0607,672.29,1,6,0,Low Volume At Risk
+248,Good Bicycle Store,Warehouse,Sulzbach Taunus,Germany,1538.172,2,-70.1757999999999,-0.0456,769.09,2,165,91,Low Volume At Risk
+249,Helpful Sales and Repair Service,Value Added Reseller,Seaford,Australia,106761.0879,146,-7216.067499999995,-0.0676,731.24,4,8,264,Low Volume At Risk
+251,Endurance Bikes,Warehouse,Hamden,United States,1893.504,5,-67.31779999999983,-0.0356,378.7,3,23,267,Low Volume At Risk
+253,Roving Sports,Specialty Bike Shop,Puyallup,United States,17320.3325,23,-463.87179999999915,-0.0268,753.06,4,58,649,Low Volume At Risk
+255,Swift Cycles,Value Added Reseller,Houston,United States,228419.9459,170,-7492.258599999996,-0.0328,1343.65,3,24,1001,Low Volume At Risk
+257,Number 1 Supply,Warehouse,Escondido,United States,316323.8118,219,-6428.971399999993,-0.0203,1444.4,4,22,638,High Volume At Risk
+258,Quantity Discounts,Value Added Reseller,Sacramento,United States,338939.2001,229,-9222.810799999992,-0.0272,1480.08,4,40,635,High Volume At Risk
+259,Highway Bike Shop,Specialty Bike Shop,Simi Valley,United States,68492.09820000001,111,-1359.6846999999977,-0.0199,617.05,4,41,1002,Low Volume At Risk
+260,Industrial Supplies,Warehouse,Miami,United States,154826.7083,79,-16955.9557,-0.1095,1959.83,2,35,272,Low Volume At Risk
+263,Farthest Bike Store,Warehouse,Burnaby,Canada,196449.4375,145,-12561.511599999993,-0.0639,1354.82,4,19,273,Low Volume At Risk
+264,Fasteners & Bolts Outlet,Value Added Reseller,Toronto,Canada,98367.4157,147,-7861.120799999996,-0.0799,669.17,4,43,275,Low Volume At Risk
+266,Excellent Bikes,Warehouse,Grevenbroich,Germany,186217.0681,155,-13702.358799999998,-0.0736,1201.4,4,25,268,Low Volume At Risk
+267,Cycle Parts and Accessories,Value Added Reseller,Melbourne,Australia,115085.6355,141,-9527.216499999995,-0.0828,816.21,4,0,267,Low Volume At Risk
+270,Active Transport Inc.,Value Added Reseller,North Randall,United States,88245.8727,71,-254.449499999995,-0.0029,1242.9,2,37,999,Low Volume At Risk
+271,Alternative Vehicles,Specialty Bike Shop,Washougal,United States,9127.8241,11,-32.017299999999615,-0.0035,829.8,2,776,180,Mid Tier At Risk
+272,Metro Cycle Shop,Warehouse,Tacoma,United States,231593.6395,151,-267.02860000000186,-0.0012,1533.73,3,13,1003,Low Volume At Risk
+273,A Typical Bike Shop,Value Added Reseller,Round Rock,United States,83457.1089,75,-133.08529999999553,-0.0016,1112.76,4,736,276,Mid Tier At Risk
+275,Outdoor Sporting Goods,Warehouse,Lakewood,United States,10655.43,13,-78.61930000000007,-0.0074,819.65,2,136,193,Low Volume At Risk
+276,Thrifty Parts and Sales,Value Added Reseller,Oxnard,United States,5227.494,8,-199.7053999999997,-0.0382,653.44,3,11,270,Low Volume At Risk
+277,The Bicycle Accessories Company,Specialty Bike Shop,Alhambra,United States,29527.9976,34,-671.7713999999994,-0.0228,868.47,4,2,651,Low Volume At Risk
+279,Reliable Brake Systems,Value Added Reseller,Memphis,United States,72698.16129999999,44,-15867.112799999999,-0.2183,1652.23,4,718,285,Mid Tier At Risk
+281,Petroleum Products Distributors,Warehouse,Montreal,Canada,169212.2208,168,-21281.750199999995,-0.1258,1007.22,4,10,267,Low Volume At Risk
+282,Quick Parts and Service,Value Added Reseller,Sainte-Foy,Canada,102230.412,98,-7330.090499999995,-0.0717,1043.17,2,12,272,Low Volume At Risk
+283,Racing Supply Distributors,Specialty Bike Shop,Roissy en Brie,France,39484.3158,50,-2863.3640999999984,-0.0725,789.69,4,40,274,Low Volume At Risk
+284,Nearby Bike Mall,Warehouse,Berlin,Germany,26427.372,31,-918.0388999999992,-0.0347,852.5,3,3,273,Low Volume At Risk
+286,Number One Bike Co.,Specialty Bike Shop,Reading,United Kingdom,44990.0055,55,-1240.3012999999987,-0.0276,818.0,4,59,650,Low Volume At Risk
+290,Friendly Bike Shop,Warehouse,Bellingham,United States,532224.7573,287,-22588.29629999999,-0.0424,1854.44,4,63,632,High Volume At Risk
+292,Grease and Oil Products Company,Specialty Bike Shop,Houston,United States,54890.5721,102,-2095.1290999999983,-0.0382,538.14,4,56,997,Low Volume At Risk
+293,Fashionable Bikes and Accessories,Warehouse,Park City,United States,415310.5505,258,-1220.606400000006,-0.0029,1609.73,4,11,1000,High Volume At Risk
+295,Engineered Bike Systems,Specialty Bike Shop,Oxnard,United States,22523.182,30,-2111.467399999999,-0.0937,750.77,4,11,269,Low Volume At Risk
+297,Blue-Ribbon Bike Company,Value Added Reseller,Saint Matthews,United States,112651.9884,115,-7907.894899999995,-0.0702,979.58,4,12,272,Low Volume At Risk
+299,Citywide Service and Repair,Warehouse,Saint John,Canada,325022.913,356,-4135.2877999999955,-0.0127,912.99,4,73,637,High Volume At Risk
+301,Rural Mountain Bike Mart,Specialty Bike Shop,Paris,France,88448.9226,52,-4392.411799999998,-0.0497,1700.94,3,38,633,Low Volume At Risk
+302,Best Cycle Store,Warehouse,Offenbach,Germany,272052.2258,177,-25344.708499999993,-0.0932,1537.02,4,68,269,High Volume At Risk
+305,Professional Sporting Goods,Warehouse,Michigan City,United States,4466.8308,6,-1484.5705999999998,-0.3324,744.47,2,46,288,Low Volume At Risk
+306,Work and Play Association,Value Added Reseller,Southgate,United States,144109.8667,102,-7636.504699999996,-0.053,1412.84,4,13,638,Low Volume At Risk
+308,Rugged Bikes,Warehouse,Everett,United States,208802.8733,84,-21639.519800000002,-0.1036,2485.75,2,3,258,Low Volume At Risk
+311,Principal Bike Company,Warehouse,Upland,United States,86197.0946,64,-4225.414999999998,-0.049,1346.83,3,8,643,Low Volume At Risk
+313,Metropolitan Manufacturing,Specialty Bike Shop,El Cajon,United States,31900.0983,68,-989.9464999999999,-0.031,469.12,4,25,919,Low Volume At Risk
+317,Finer Riding Supplies,Warehouse,Burnaby,Canada,290158.9276,250,-3937.5447999999924,-0.0136,1160.64,4,19,1013,High Volume At Risk
+319,Cycles Sales and Repair,Specialty Bike Shop,Bobigny,France,66126.316,46,-6569.922999999996,-0.0994,1437.53,4,9,267,Low Volume At Risk
+320,Amalgamated Parts Shop,Warehouse,Frankfurt am Main,Germany,197327.5854,156,-25042.3896,-0.1269,1264.92,4,53,267,Low Volume At Risk
+321,Second Bike Shop,Value Added Reseller,Matraville,Australia,3288.918,3,-181.92059999999975,-0.0553,1096.31,2,107,183,Low Volume At Risk
+328,Totes & Baskets Company,Value Added Reseller,San Antonio,United States,816755.5763,436,-18639.522499999985,-0.0228,1873.29,4,41,1001,High Volume At Risk
+330,The New Bike Store,Warehouse,Hanford,United States,5362.5698,7,-25.16839999999985,-0.0047,766.08,2,358,572,Mid Tier At Risk
+331,Technical Parts Manufacturing,Value Added Reseller,Ontario,United States,187114.20130000002,119,-17242.499699999997,-0.0921,1572.39,2,68,270,Low Volume At Risk
+336,Primary Bike Distributors,Warehouse,Montreal,Canada,278198.2232,170,-8833.427499999994,-0.0318,1636.46,4,36,998,High Volume At Risk
+343,Mail-Order Outlet,Value Added Reseller,Ellensburg,United States,477957.2715,286,-10333.868599999996,-0.0216,1671.18,4,22,638,High Volume At Risk
+344,Fifth Bike Store,Specialty Bike Shop,Everett,United States,14237.046400000001,22,-20.284799999999436,-0.0014,647.14,3,50,1007,Low Volume At Risk
+351,Acclaimed Bicycle Company,Warehouse,Mcdonough,United States,7300.8288,11,-1542.9070999999997,-0.2113,663.71,2,5,254,Low Volume At Risk
+357,Quality Bike Sales,Warehouse,Findon,Australia,3303.8977999999997,5,-379.2256,-0.1148,660.78,2,24,269,Low Volume At Risk
+360,Novelty Bikes,Warehouse,Saginaw,United States,15973.3036,24,-537.9743999999998,-0.0337,665.55,4,31,284,Low Volume At Risk
+361,Fitness Supplies,Value Added Reseller,Sequim,United States,112900.248,164,-6896.539299999995,-0.0611,688.42,4,41,276,Low Volume At Risk
+363,Immense Manufacturing Company,Warehouse,Saint Ann,United States,181062.7128,71,-16581.943199999998,-0.0916,2550.18,2,40,276,Low Volume At Risk
+364,District Mall,Value Added Reseller,Ferguson,United States,87491.355,69,-261.00199999999575,-0.003,1267.99,3,753,274,Mid Tier At Risk
+366,Extended Bike Sales,Warehouse,City Of Commerce,United States,261522.327,78,-31150.022699999998,-0.1191,3352.85,4,725,282,Mid Tier At Risk
+372,Top Bike Market,Warehouse,Kingston,Canada,5641.2108,11,-1338.1449999999998,-0.2372,512.84,3,5,261,Low Volume At Risk
+377,Grand Sport Boutique,Specialty Bike Shop,Saginaw,United States,82135.5767,86,-2896.711799999998,-0.0353,955.06,4,40,635,Low Volume At Risk
+383,Vehicle Shop,Specialty Bike Shop,Redlands,United States,11934.6698,29,-1076.8650999999998,-0.0902,411.54,4,60,937,Low Volume At Risk
+387,Racing Association,Warehouse,Huntsville,United States,5090.4704,5,-126.42819999999976,-0.0248,1018.09,2,48,640,Low Volume At Risk
+391,Pretty Bikes and Toys,Value Added Reseller,Paris,France,132838.368,91,-7474.645999999997,-0.0563,1459.76,4,38,274,Low Volume At Risk
+392,Primary Cycle Shop,Specialty Bike Shop,Hamburg,Germany,7963.932,14,-253.5213999999996,-0.0318,568.85,4,52,268,Low Volume At Risk
+393,Gears and Parts Company,Warehouse,Milsons Point,Australia,145407.7395,92,-16456.762099999996,-0.1132,1580.52,4,36,253,Low Volume At Risk
+398,Commendable Bikes,Specialty Bike Shop,Sandpoint,United States,6962.3778,13,-148.59579999999977,-0.0213,535.57,4,73,638,Low Volume At Risk
+399,Big Cycle Mall,Warehouse,Killeen,United States,12071.3124,11,-1047.0597999999993,-0.0867,1097.39,2,25,265,Low Volume At Risk
+400,Local Sales and Rental,Value Added Reseller,Joliet,United States,6407.892,12,-39.87809999999968,-0.0062,533.99,4,1,259,Low Volume At Risk
+403,Affordable Sports Equipment,Value Added Reseller,Lake Elsinore,United States,311446.431,269,-426.56369999999106,-0.0014,1157.79,4,383,637,High Volume At Risk
+404,Activity Center,Specialty Bike Shop,Crossville,United States,42650.3954,73,-1621.2470999999991,-0.038,584.25,4,51,641,Low Volume At Risk
+407,Workout Emporium,Specialty Bike Shop,Montreal,Canada,18001.7208,10,-2027.6092999999987,-0.1126,1800.17,2,6,272,Low Volume At Risk
+408,Odometers and Accessories Company,Warehouse,Richmond,Canada,197801.0562,154,-8850.927999999998,-0.0447,1284.42,4,11,272,Low Volume At Risk
+410,Pedaling Components,Specialty Bike Shop,Kiel,Germany,56130.0691,37,-5145.9505999999965,-0.0917,1517.03,4,27,266,Low Volume At Risk
+418,Good Bike Shop,Value Added Reseller,Racine,United States,392784.6026,320,-8902.64779999999,-0.0227,1227.45,4,7,1004,High Volume At Risk
+420,Extreme Riding Supplies,Warehouse,Sherman Oaks,United States,182025.0622,80,-21785.7172,-0.1197,2275.31,2,13,271,Low Volume At Risk
+426,Custom Accessories Company,Warehouse,Brampton,Canada,269007.3018,250,-4899.443999999995,-0.0182,1076.03,4,33,633,High Volume At Risk
+428,West Wind Distributors,Specialty Bike Shop,Hannover,Germany,29218.357500000002,22,-2885.4128999999984,-0.0988,1328.11,2,4,260,Low Volume At Risk
+429,Unusual Bicycle Company,Warehouse,Silverwater,Australia,8406.4692,10,-2340.2554999999998,-0.2784,840.65,2,74,274,Low Volume At Risk
+430,Uttermost Bike Shop,Value Added Reseller,Bracknell,United Kingdom,309675.8361,283,-7382.278699999992,-0.0238,1094.26,4,33,633,High Volume At Risk
+431,Small Cycle Store,Specialty Bike Shop,Holland,United States,82846.2403,121,-1920.4427999999984,-0.0232,684.68,4,51,1004,Low Volume At Risk
+433,Thorough Parts and Repair Services,Value Added Reseller,Lacey,United States,740985.8338,358,-24512.87239999999,-0.0331,2069.79,4,26,995,High Volume At Risk
+436,Sheet Metal Manufacturing,Value Added Reseller,College Station,United States,617340.4579,371,-16405.229999999996,-0.0266,1663.99,4,19,643,High Volume At Risk
+438,Remarkable Bike Store,Specialty Bike Shop,Las Vegas,United States,100495.4498,83,-1531.0946999999985,-0.0152,1210.79,4,1,928,Low Volume At Risk
+441,Leading Bike Distributors,Specialty Bike Shop,Somerset,United States,21860.136000000002,37,-647.1413999999992,-0.0296,590.81,4,42,276,Low Volume At Risk
+443,Courteous Bicycle Specialists,Value Added Reseller,Richmond Hill,Canada,2612.2560000000003,7,-58.006299999999825,-0.0222,373.18,3,12,271,Low Volume At Risk
+446,Fitness Toys,Value Added Reseller,Berlin,Germany,4689.126,8,-103.36879999999975,-0.022,586.14,2,34,271,Low Volume At Risk
+448,Action Bicycle Specialists,Warehouse,Woolston,United Kingdom,321752.8352,179,-29298.809499999992,-0.0911,1797.5,4,14,272,High Volume At Risk
+451,Roadway Bike Emporium,Warehouse,Medford,United States,148098.2923,71,-15860.030299999997,-0.1071,2085.89,2,47,282,Low Volume At Risk
+453,Unique Bikes,Specialty Bike Shop,Milwaukee,United States,81372.226,31,-4566.261300000002,-0.0561,2624.91,2,733,276,Mid Tier At Risk
+454,Sleek Bikes,Warehouse,Denby,United States,185859.5957,84,-15146.715999999997,-0.0815,2212.61,2,3,260,Low Volume At Risk
+458,Simple Bike Parts,Value Added Reseller,Destin,United States,8288.7638,13,-91.9792999999998,-0.0111,637.6,2,48,1010,Low Volume At Risk
+461,Active Life Toys,Value Added Reseller,Mississauga,Canada,200013.366,173,-947.597099999997,-0.0047,1156.15,4,372,268,High Volume At Risk
+464,Educational Services,Value Added Reseller,Saarbrücken,Germany,117328.4563,167,-6667.592999999995,-0.0568,702.57,4,5,255,Low Volume At Risk
+466,Central Bicycle Specialists,Warehouse,Maidenhead,United Kingdom,1424.4864,4,-703.0313999999998,-0.4935,356.12,2,0,259,Low Volume At Risk
+471,Social Activities Club,Specialty Bike Shop,San Antonio,United States,8997.816200000001,14,-35.29309999999961,-0.0039,642.7,2,30,1013,Low Volume At Risk
+477,Quitting Business Distributors,Specialty Bike Shop,Tampa,United States,29518.9673,40,-3056.5636999999992,-0.1035,737.97,4,8,265,Low Volume At Risk
+479,General Supplies,Value Added Reseller,Ville De'anjou,Canada,318177.59249999997,334,-5882.599799999995,-0.0185,952.63,4,31,651,High Volume At Risk
+480,General Bike Corporation,Specialty Bike Shop,Mississauga,Canada,60430.2791,128,-1186.1898999999987,-0.0196,472.11,4,65,998,Low Volume At Risk
+481,Getaway Inn,Warehouse,Saint Ouen,France,320221.5495,289,-7184.739799999998,-0.0224,1108.03,4,12,633,High Volume At Risk
+482,"Fabrikam Inc., East",Value Added Reseller,Eilenburg,Germany,116553.24,88,-6685.777799999999,-0.0574,1324.47,4,50,275,Low Volume At Risk
+483,Fitness Bike Accessories,Specialty Bike Shop,Rhodes,Australia,4631.0749,9,-303.4693999999997,-0.0655,514.56,3,11,258,Low Volume At Risk
+491,Area Bike Accessories,Value Added Reseller,Modesto,United States,380454.03250000003,273,-13946.842499999995,-0.0367,1393.6,4,66,997,High Volume At Risk
+493,Valley Bicycle Distributors,Warehouse,Citrus Heights,United States,28933.9561,43,-963.735399999999,-0.0333,672.88,3,19,555,Low Volume At Risk
+498,Quick Delivery Service,Specialty Bike Shop,Mississauga,Canada,24236.316199999997,15,-8178.206399999999,-0.3374,1615.75,2,733,276,Mid Tier At Risk
+499,Racing Sales and Service,Warehouse,Orleans,France,409287.8016,188,-18910.054199999995,-0.0462,2177.06,4,11,631,High Volume At Risk
+501,Jumbo Bikes,Specialty Bike Shop,Malabar,Australia,2860.884,2,-102.99179999999978,-0.036,1430.44,1,6,0,Low Volume At Risk
+503,Metropolitan Sales and Rental,Value Added Reseller,Hooksett,United States,5178.6125,10,-39.96979999999992,-0.0077,517.86,2,1,1004,Low Volume At Risk
+505,Honest Repair Service,Warehouse,Kelso,United States,163851.8866,79,-17604.1813,-0.1074,2074.07,2,55,272,Low Volume At Risk
+509,Fun Toys and Bikes,Value Added Reseller,Tucson,United States,95228.2244,101,-8600.141399999995,-0.0903,942.85,2,13,261,Low Volume At Risk
+510,World Bike Discount Store,Specialty Bike Shop,Trabuco Canyon,United States,4918.5235,10,-147.82159999999976,-0.0301,491.85,3,164,910,Low Volume At Risk
+511,Wheel Gallery,Warehouse,San Mateo,United States,19413.9889,22,-5.478099999998847,-0.0003,882.45,2,804,268,Mid Tier At Risk
+512,Tiny Bike Boutique,Value Added Reseller,Nashville,United States,194423.137,132,-2052.1093999999966,-0.0106,1472.9,4,403,265,Mid Tier At Risk
+514,Retail Mall,Warehouse,Richmond,Canada,799277.8953,451,-22993.417999999998,-0.0288,1772.23,4,72,999,High Volume At Risk
+518,Regional Cycle Shop,Value Added Reseller,Berlin,Germany,1525.392,3,-72.2400999999999,-0.0474,508.46,3,95,76,Low Volume At Risk
+519,List Price Catalog Company,Specialty Bike Shop,Melbourne,Australia,59063.8852,68,-4018.431399999997,-0.068,868.59,4,15,285,Low Volume At Risk
+520,Metro Metals Co.,Warehouse,London,United Kingdom,299985.1981,120,-41734.089799999994,-0.1391,2499.88,4,16,281,High Volume At Risk
+522,Small Bike Accessories Shop,Specialty Bike Shop,Cheektowaga,United States,68431.0819,83,-5397.863199999997,-0.0789,824.47,4,32,272,Low Volume At Risk
+523,Futuristic Sport Distributors,Warehouse,Longmont,United States,309077.4105,317,-7186.740899999994,-0.0233,975.01,4,47,638,High Volume At Risk
+527,Fun Times Club,Value Added Reseller,Parker,United States,268166.0546,218,-1847.3275999999912,-0.0069,1230.12,4,38,1001,High Volume At Risk
+528,Alpine Ski House,Specialty Bike Shop,Elk Grove,United States,11346.8814,14,-47.08189999999939,-0.0041,810.49,2,386,557,Mid Tier At Risk
+529,Big-Time Bike Store,Warehouse,Camarillo,United States,83292.2089,75,-353.9873999999983,-0.0042,1110.56,3,19,645,Low Volume At Risk
+531,Sunny Place Bikes,Specialty Bike Shop,Vero Beach,United States,83359.9455,106,-1443.2339999999976,-0.0173,786.41,4,31,923,Low Volume At Risk
+533,Tenth Bike Store,Value Added Reseller,Sillery,Canada,458373.1887,282,-3997.819099999992,-0.0087,1625.44,4,409,634,High Volume At Risk
+534,Recommended Bicycles,Specialty Bike Shop,Mississauga,Canada,1294.2529,2,-3.601699999999994,-0.0028,647.13,1,762,185,Mid Tier At Risk
+536,Next Door Cycles,Value Added Reseller,Berlin,Germany,220496.689,134,-20039.186899999993,-0.0909,1645.5,3,2,274,Low Volume At Risk
+538,Prosperous Tours,Warehouse,London,United Kingdom,354607.3253,369,-11067.120899999996,-0.0312,961.0,4,47,639,High Volume At Risk
+539,Glossy Bikes,Value Added Reseller,Lake George,United States,239853.1192,204,-13449.329599999994,-0.0561,1175.75,4,4,264,High Volume At Risk
+540,Guaranteed Sales and Service,Specialty Bike Shop,Burbank,United States,124961.2283,91,-5015.951199999996,-0.0401,1373.2,4,33,632,Low Volume At Risk
+548,New Bikes Company,Warehouse,Bluffton,United States,5670.2261,6,-21.704299999999602,-0.0038,945.04,3,759,273,Mid Tier At Risk
+549,Daring Rides,Value Added Reseller,Clearwater,United States,81838.6037,59,-290.03039999999595,-0.0035,1387.09,3,786,273,Mid Tier At Risk
+550,Remote Bicycle Specialists,Specialty Bike Shop,Quebec,Canada,26778.0142,62,-195.71659999999954,-0.0073,431.9,4,7,637,Low Volume At Risk
+552,Consolidated Messenger,Value Added Reseller,Toronto,Canada,128376.1096,139,-5908.535999999996,-0.046,923.57,4,31,270,Low Volume At Risk
+553,Accessories Network,Specialty Bike Shop,Paris,France,2165.7889,4,-242.77119999999985,-0.1121,541.45,2,7,261,Low Volume At Risk
+554,Top of the Line Bikes,Warehouse,Paderborn,Germany,3372.3384,5,-716.4261999999999,-0.2124,674.47,2,37,263,Low Volume At Risk
+555,Twin Cycles,Value Added Reseller,Darlinghurst,Australia,7337.598,13,-205.48649999999958,-0.028,564.43,2,1,262,Low Volume At Risk
+556,Variety Cycling,Specialty Bike Shop,London,United Kingdom,97173.4233,57,-7530.959299999996,-0.0775,1704.8,2,15,283,Low Volume At Risk
+557,Purchase Mart,Warehouse,Wrentham,United States,8799.1298,21,-366.0266999999999,-0.0416,419.01,4,14,259,Low Volume At Risk
+558,Retail Sales and Service,Value Added Reseller,Tilton,United States,299530.4863,279,-1401.2858999999926,-0.0047,1073.59,4,31,1015,High Volume At Risk
+561,Mountain Toy Store,Value Added Reseller,Sugar Land,United States,9078.4705,13,-195.7406999999996,-0.0216,698.34,4,13,924,Low Volume At Risk
+563,Systematic Sales,Warehouse,Gilbert,United States,28016.698,23,-2042.1076999999996,-0.0729,1218.12,2,24,271,Low Volume At Risk
+567,Global Plaza,Value Added Reseller,Pigeon Forge,United States,158899.1489,36,-18221.538399999998,-0.1147,4413.87,3,735,276,Mid Tier At Risk
+572,Versatile Sporting Goods Company,Warehouse,Braunschweig,Germany,8140.752,9,-406.1236999999994,-0.0499,904.53,3,63,258,Low Volume At Risk
+573,Nationwide Supply,Value Added Reseller,Rhodes,Australia,221169.7847,196,-16003.084299999993,-0.0724,1128.42,4,12,271,High Volume At Risk
+575,Bicycle Outfitters,Warehouse,Cincinnati,United States,182730.2472,116,-206.58719999999593,-0.0011,1575.26,3,369,638,Mid Tier At Risk
+576,The Bike Mechanics,Value Added Reseller,Mansfield,United States,67941.1934,45,-10062.788999999999,-0.1481,1509.8,4,0,1002,Low Volume At Risk
+579,Riders Company,Value Added Reseller,Branch,United States,519411.3564,378,-6834.809499999986,-0.0132,1374.1,4,9,999,High Volume At Risk
+581,Safe Toys,Warehouse,Rio Rancho,United States,131600.9354,38,-18578.8892,-0.1412,3463.18,3,736,276,Mid Tier At Risk
+582,Professional Sales and Service,Value Added Reseller,Van Nuys,United States,112888.6666,162,-6121.108499999996,-0.0542,696.84,4,14,272,Low Volume At Risk
+587,Our Sporting Goods Store,Warehouse,Ottawa,Canada,18030.7282,19,-619.3431999999993,-0.0343,948.99,2,11,631,Low Volume At Risk
+590,Lustrous Paints and Components,Warehouse,Poing,Germany,1344.588,1,-81.57159999999999,-0.0607,1344.59,1,342,0,Mid Tier At Risk
+591,Fitness Discount Store,Value Added Reseller,Melbourne,Australia,3405.0733,26,-979.0936999999999,-0.2875,130.96,4,47,273,Low Volume At Risk
+592,Cycling Goods,Specialty Bike Shop,London,United Kingdom,60927.8699,97,-1016.4190999999987,-0.0167,628.12,4,17,638,Low Volume At Risk
+593,Expert Sports Store,Warehouse,Holland,United States,2917.9404,6,-449.5507999999998,-0.1541,486.32,3,27,179,Low Volume At Risk
+595,Cycle Clearance,Specialty Bike Shop,Albany,United States,10355.1349,11,-523.3762999999998,-0.0505,941.38,3,14,274,Low Volume At Risk
+597,All Seasons Sports Supply,Value Added Reseller,Houston,United States,7436.268,12,-72.39649999999963,-0.0097,619.69,2,53,276,Low Volume At Risk
+599,Westside Plaza,Warehouse,Sand City,United States,534956.2787,203,-73315.54899999998,-0.137,2635.25,4,60,272,High Volume At Risk
+601,Transport Bikes,Specialty Bike Shop,Sandy,United States,4481.4769,11,-32.63849999999985,-0.0073,407.41,3,8,276,Low Volume At Risk
+602,Ultimate Bike Shop,Warehouse,Maryville,United States,122360.6647,44,-17251.5263,-0.141,2780.92,4,0,1003,Low Volume At Risk
+603,Retail Toy Store,Value Added Reseller,Miami,United States,5291.4436000000005,7,-19.604499999999746,-0.0037,755.92,3,320,730,Low Volume At Risk
+604,Sellers of Cycles,Specialty Bike Shop,Clackamas,United States,24684.15,26,-1354.058399999999,-0.0549,949.39,4,1,260,Low Volume At Risk
+605,Outstanding Cycles,Warehouse,Spokane,United States,204203.3698,165,-16588.754999999994,-0.0812,1237.6,4,31,270,Low Volume At Risk
+607,Maintenance and Repair for Bicycles,Specialty Bike Shop,La Marque,United States,18772.6824,12,-1341.283999999999,-0.0714,1564.39,2,18,281,Low Volume At Risk
+608,Golf and Cycle Store,Warehouse,La Mesa,United States,585516.433,207,-24260.0418,-0.0414,2828.58,4,352,652,High Volume At Risk
+610,Fitness Department Stores,Specialty Bike Shop,Scottsdale,United States,1220.4564,3,-731.9128999999999,-0.5997,406.82,2,130,170,Low Volume At Risk
+611,Front Runner Bikes,Warehouse,Bradenton,United States,184837.3297,170,-14492.415499999994,-0.0784,1087.28,4,9,267,Low Volume At Risk
+614,Favorite Toy Distributor,Warehouse,Paris,France,283745.8829,112,-23943.5935,-0.0844,2533.45,3,37,274,High Volume At Risk
+615,Fast Services,Value Added Reseller,Leipzig,Germany,6369.0,12,-174.2724999999996,-0.0274,530.75,3,16,282,Low Volume At Risk
+616,Eastward Bike Accessories,Specialty Bike Shop,Matraville,Australia,2983.0189,7,-243.0269999999999,-0.0815,426.15,2,0,259,Low Volume At Risk
+618,Seventh Bike Store,Value Added Reseller,Plaistow,United States,402108.472,380,-9384.580099999988,-0.0233,1058.18,4,72,993,High Volume At Risk
+621,Running and Cycling Gear,Value Added Reseller,Bellingham,United States,215977.9626,139,-13172.190299999991,-0.061,1553.8,4,9,279,High Volume At Risk
+622,Gift and Toy Store,Specialty Bike Shop,Tuscola,United States,49617.7903,107,-851.0406999999982,-0.0172,463.72,4,74,641,Low Volume At Risk
+624,First Cycle Store,Value Added Reseller,Scottsdale,United States,138868.2962,115,-6417.342499999996,-0.0462,1207.55,4,8,1005,Low Volume At Risk
+625,Major Sporting Goods,Specialty Bike Shop,Chandler,United States,939.588,2,-33.825199999999995,-0.036,469.79,1,399,94,Mid Tier At Risk
+627,Exchange Parts Inc.,Value Added Reseller,Raleigh,United States,112448.4311,116,-10454.813599999996,-0.093,969.38,4,7,263,Low Volume At Risk
+629,Efficient Cycling,Warehouse,Calgary,Canada,12224.879,14,-1452.9514999999994,-0.1189,873.21,4,20,272,Low Volume At Risk
+631,Tandem Sales and Service,Specialty Bike Shop,Toronto,Canada,24970.540100000002,30,-11.890299999999895,-0.0005,832.35,3,557,458,Mid Tier At Risk
+633,Rustic Bike Store,Value Added Reseller,Augsburg,Germany,3192.3709,9,-112.28799999999993,-0.0352,354.71,2,9,268,Low Volume At Risk
+634,Sensible Sports,Specialty Bike Shop,Rhodes,Australia,26661.6301,21,-3181.9624999999983,-0.1193,1269.6,2,60,285,Low Volume At Risk
+637,Reliable Retail Center,Specialty Bike Shop,Toronto,Canada,8476.683,15,-81.83569999999966,-0.0097,565.11,4,13,639,Low Volume At Risk
+638,Metropolitan Equipment,Warehouse,Paris,France,643745.896,405,-22264.753199999992,-0.0346,1589.5,4,38,633,High Volume At Risk
+639,Producer Goods Clearinghouse,Value Added Reseller,Frankfurt,Germany,12795.432,26,-151.0744999999994,-0.0118,492.13,3,54,266,Low Volume At Risk
+640,Liquidation Sales,Specialty Bike Shop,Perth,Australia,61620.2622,79,-3682.3821999999973,-0.0598,780.0,4,11,270,Low Volume At Risk
+641,Extended Tours,Warehouse,London,United Kingdom,5615.5794000000005,9,-91.50429999999984,-0.0163,623.95,4,412,273,Low Volume At Risk
+643,Friendly Bike Shop,Specialty Bike Shop,Port Huron,United States,30353.213900000002,36,-1429.0530999999996,-0.0471,843.14,3,427,570,Mid Tier At Risk
+644,Convenient Sales and Service,Warehouse,Springfield,United States,173228.29439999998,129,-4832.602399999997,-0.0279,1342.85,3,13,637,Low Volume At Risk
+648,Small Bike Shop,Value Added Reseller,El Segundo,United States,424512.6951,249,-9796.959699999998,-0.0231,1704.87,4,4,1002,High Volume At Risk
+649,Sports Products Store,Specialty Bike Shop,Santa Ana,United States,45287.6826,71,-854.9672999999983,-0.0189,637.85,4,7,640,Low Volume At Risk
+659,Shipping Specialists,Specialty Bike Shop,London,United Kingdom,443.97,2,-53.648799999999994,-0.1208,221.98,2,17,97,Low Volume At Risk
+660,Exhilarating Cycles,Warehouse,Howell,United States,336401.661,373,-6457.026199999995,-0.0192,901.88,4,53,637,High Volume At Risk
+662,Finer Sporting Goods,Specialty Bike Shop,Croix,France,34174.9217,60,-3378.0311999999985,-0.0988,569.58,4,26,264,Low Volume At Risk
+664,Eastside Cycle Shop,Value Added Reseller,Melbourne,Australia,2669.1109,5,-244.44739999999982,-0.0916,533.82,2,47,273,Low Volume At Risk
+666,Bike Boutique,Warehouse,Columbus,United States,284876.0711,179,-7336.869799999997,-0.0258,1591.49,3,19,643,High Volume At Risk
+668,Official Parts Shop,Specialty Bike Shop,Kelso,United States,85647.4368,87,-2533.247999999998,-0.0296,984.45,4,57,630,Low Volume At Risk
+669,Racing Bike Outlet,Warehouse,Federal Way,United States,7643.9962,15,-232.0285999999997,-0.0304,509.6,4,23,549,Low Volume At Risk
+670,First Bike Store,Value Added Reseller,Odessa,United States,711864.7624,312,-22055.46089999999,-0.031,2281.62,4,68,996,High Volume At Risk
+672,Utilitarian Sporting Goods,Warehouse,Ogden,United States,147887.682,101,-14805.627499999997,-0.1001,1464.23,4,11,269,Low Volume At Risk
+674,Discount Tours,Specialty Bike Shop,Daly City,United States,31751.7763,67,-79.45779999999962,-0.0025,473.91,4,2,930,Low Volume At Risk
+675,Bike Goods,Warehouse,North Miami Beach,United States,40221.1014,54,-120.4653999999984,-0.003,744.84,4,11,1000,Low Volume At Risk
+679,Superb Sales and Repair,Value Added Reseller,Montreal,Canada,88724.6287,89,-219.35779999999576,-0.0025,996.91,4,67,996,Low Volume At Risk
+681,Showcase for Cycles,Warehouse,Sulzbach Taunus,Germany,1029.192,2,-44.83059999999995,-0.0436,514.6,2,226,93,Low Volume At Risk
+682,Popular Bike Lines,Value Added Reseller,Newcastle,Australia,105590.1311,156,-5922.762799999996,-0.0561,676.86,4,10,269,Low Volume At Risk
+684,Lease-a-Bike Shop,Warehouse,Milford,United States,394260.688,280,-9589.914099999993,-0.0243,1408.07,3,35,998,High Volume At Risk
+688,Bike Part Wholesalers,Value Added Reseller,Sydney,Australia,105520.8817,171,-7813.771599999996,-0.074,617.08,4,13,272,Low Volume At Risk
+691,Mountain Bike Store,Value Added Reseller,New Haven,United States,106971.4345,102,-7069.938499999995,-0.0661,1048.74,2,67,269,Low Volume At Risk
+692,Successful Sales Company,Specialty Bike Shop,Tigard,United States,39171.4131,95,-83.30579999999902,-0.0021,412.33,4,13,636,Low Volume At Risk
+693,Stock Parts and Supplies,Warehouse,Hillsboro,United States,178066.6502,89,-22518.715899999996,-0.1265,2000.75,2,24,271,Low Volume At Risk
+694,The Accessories Store,Value Added Reseller,Medford,United States,3520.1692,8,-38.93659999999994,-0.0111,440.02,3,289,365,Low Volume At Risk
+696,Roadway Supplies,Warehouse,Riverton,United States,1778.4284,2,-22.71260000000005,-0.0128,889.21,2,861,89,Mid Tier At Risk
+698,Western Bike Supplies,Specialty Bike Shop,Cedar City,United States,19957.4547,21,-1607.5723999999993,-0.0805,950.35,2,431,262,Mid Tier At Risk
+699,Sensational Discount Store,Warehouse,Kannapolis,United States,323.994,1,-19.655599999999993,-0.0607,323.99,1,87,0,Low Volume At Risk
+700,Underglaze and Finish Company,Value Added Reseller,Charlotte,United States,120639.5433,157,-5083.051899999998,-0.0421,768.4,4,32,272,Low Volume At Risk
+701,Future Bikes,Warehouse,Calgary,Canada,11038.0303,12,-194.12279999999947,-0.0176,919.84,2,9,536,Low Volume At Risk
+136,Wholesale Parts,Warehouse,Calgary,Canada,71252.8201,59,1.512800000002244,0.0,1207.67,2,756,276,Mid Tier At Risk
